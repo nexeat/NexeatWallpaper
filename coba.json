@@ -33,7 +33,7 @@
       "wallpaper_url": "category/supercar.jpeg"
     },
     {
-      "name_category": "Black_Wallpaper_for_Iphone",
+      "name_category": "bLACK WALLPAPER",
       "wallpaper_url": "category/beach.jpeg"
     },
     {
@@ -46,56 +46,231 @@
     }
   ],
   "Wallpaper": [
-   
-  {
-    "id": "249527635591434750",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone249527635591434750",
-    "wallpaper_url": "https://i.pinimg.com/originals/bb/99/7c/bb997c24bacd19cab0902e823cae1fcd.jpg"
-  },
-  {
-    "id": "9077636740823151",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone9077636740823151",
-    "wallpaper_url": "https://i.pinimg.com/originals/ca/ee/d3/caeed3380341fad59e37de3f715bda1e.jpg"
-  },
-  {
-    "id": "23081016831948958",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone23081016831948958",
-    "wallpaper_url": "https://i.pinimg.com/originals/5e/63/d4/5e63d4ca60e79017f4248f96555e96b5.jpg"
-  },
-  {
-    "id": "399483429460798652",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone399483429460798652",
-    "wallpaper_url": "https://i.pinimg.com/originals/f6/ab/cc/f6abccfffacbbefea21b58dfabf43901.jpg"
-  },
-  {
-    "id": "598415869254998750",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone598415869254998750",
-    "wallpaper_url": "https://i.pinimg.com/originals/4d/55/c4/4d55c4b1344b8343134159b28c8498a1.jpg"
-  },
-  {
-    "id": "580401470745262379",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone580401470745262379",
-    "wallpaper_url": "https://i.pinimg.com/originals/13/55/28/1355289a3e95edd793f4ba2d80d9f557.jpg"
-  },
-  {
-    "id": "726768458633483568",
-    "name_category": "Black_Wallpaper_for_Iphone",
-    "wallpaper_type": "IMAGE",
-    "wallpaper_name": "Black Wallpaper for Iphone726768458633483568",
-    "wallpaper_url": "https://i.pinimg.com/originals/9e/23/5e/9e235e325994522e5dc45b6347d380d2.jpg"
-  }
+  
+    {
+        "id": "202450945736302490",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945736302490",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/54/97/82/5497824c38853c29a8904e9c8f1de6c3.jpg"
+    },
+    {
+        "id": "202450945736302483",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945736302483",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/1e/13/fa/1e13fa407a30799e5a1d39dd883d121d.jpg"
+    },
+    {
+        "id": "202450945736302476",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945736302476",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/42/92/ce/4292ced31b9ed954d28f56961a42b233.jpg"
+    },
+    {
+        "id": "202450945736024591",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945736024591",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/3f/86/86/3f86866c778dfc8d98858cdfd8fcc820.jpg"
+    },
+    {
+        "id": "202450945735750114",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735750114",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e5/47/de/e547de274fe59ee64bdfa8dd4e11fd6b.jpg"
+    },
+    {
+        "id": "202450945735738342",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735738342",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/86/4e/3a/864e3a57433b7731bb9b06482491f1ba.jpg"
+    },
+    {
+        "id": "202450945735738340",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735738340",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/b4/d6/5b/b4d65b00e7636daa8bf2e7de3caa575c.jpg"
+    },
+    {
+        "id": "202450945735738339",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735738339",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/46/5c/3c/465c3c97b29063756a29e030a26150f5.jpg"
+    },
+    {
+        "id": "202450945735725950",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735725950",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8d/aa/74/8daa74cbb46c310ddc6e24c7829bcf2b.jpg"
+    },
+    {
+        "id": "202450945735725949",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735725949",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/11/c9/12/11c912c16db281a3db13f72426b168f8.jpg"
+    },
+    {
+        "id": "202450945735725938",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735725938",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/d3/8b/24/d38b24b947c085afb532ba5011d12179.jpg"
+    },
+    {
+        "id": "202450945735704698",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735704698",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6a/92/25/6a9225d6ee01ac4370f2bc6013e2ddb0.jpg"
+    },
+    {
+        "id": "202450945735704694",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735704694",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/38/13/9e/38139ec9eced80697b031255e245b3f3.jpg"
+    },
+    {
+        "id": "202450945735704687",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735704687",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8f/98/8d/8f988d001d6e6aaeb58235aed11b97a7.jpg"
+    },
+    {
+        "id": "202450945735704682",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735704682",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/cd/66/26/cd66266819d63dc99cd1521e450198ee.jpg"
+    },
+    {
+        "id": "202450945735590093",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735590093",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/7d/fc/d1/7dfcd1853547837a7adf116ff7d25240.jpg"
+    },
+    {
+        "id": "202450945735511245",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735511245",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f4/86/f0/f486f0c2983bf3782d1e6d2c563e6f26.jpg"
+    },
+    {
+        "id": "202450945735031271",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945735031271",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/e9/fd/80/e9fd805278e3a1de664013b7bd52ed0b.jpg"
+    },
+    {
+        "id": "202450945734965436",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734965436",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/05/af/6a/05af6a61b44f952cc016135a8b00156d.jpg"
+    },
+    {
+        "id": "202450945734916317",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734916317",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/8e/2f/64/8e2f640200e310319fcf0c05b5ac58f9.jpg"
+    },
+    {
+        "id": "202450945734864030",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734864030",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/f3/6c/9f/f36c9f417292d304900a94b430ff9807.jpg"
+    },
+    {
+        "id": "202450945734864023",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734864023",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/25/09/c4/2509c470d7fefa9ac408fae2b70de1ef.jpg"
+    },
+    {
+        "id": "202450945734864016",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734864016",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/26/57/f2/2657f2303bdf04df767bea39c2630714.jpg"
+    },
+    {
+        "id": "202450945734864012",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734864012",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/0b/d0/d5/0bd0d5d426590770bdb9e93aa7f5b950.jpg"
+    },
+    {
+        "id": "202450945734864008",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER202450945734864008",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/a6/bf/57/a6bf579a6f78487d68e849fe2dab6701.jpg"
+    },
+    {
+        "id": "76631631155743440",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER76631631155743440",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/65/c3/f1/65c3f1edbdfb6e0a35495783248ae57c.jpg"
+    },
+    {
+        "id": "780248704200156030",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER780248704200156030",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/70/74/ee/7074ee885e7b27f3e9deffee3a1544eb.jpg"
+    },
+    {
+        "id": "30751209949305556",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER30751209949305556",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/21/ca/d5/21cad5d6dfee98ef9e858265af0e2ca9.jpg"
+    },
+    {
+        "id": "531002612328103468",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER531002612328103468",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/04/07/10/040710aca93975f84e6f7c7410210829.jpg"
+    },
+    {
+        "id": "13721973858027661",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER13721973858027661",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/dd/f4/42/ddf44255cda279591642bf8cc3ef9af6.jpg"
+    },
+    {
+        "id": "292311832078745075",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER292311832078745075",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/6a/70/bc/6a70bc6ea83ed9112601995b80bb31d8.jpg"
+    },
+    {
+        "id": "436567757643209397",
+        "name_category": "bLACK WALLPAPER",
+        "wallpaper_name": "bLACK WALLPAPER436567757643209397",
+        "wallpaper_type": "IMAGE",
+        "wallpaper_url": "https://i.pinimg.com/originals/41/82/8c/41828cce65acc9b51243e4f064aa3ca7.jpg"
+    }
 
 
   ]
