@@ -1,37 +1,965 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "watercolor"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/5993039962",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/7762800090",
+      "main_ads_natives": "ca-app-pub-3376721963677182/2053794951",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/7174259693",
+      "open_ads_admob": "ca-app-pub-3376721963677182/5953667660",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~8619203300",
-  "admob_banner_id": "ca-app-pub-3376721963677182/5993039962",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/7762800090",
-  "admob_native_id": "ca-app-pub-3376721963677182/2053794951",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/7174259693",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/33/d1/4c33d1e3e36d2e5361c95c96fb6d85c4.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/9e/ab/d49eab32ff61a83a2a02b34c3ae69683.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/ac/a7/0faca7ff52ec97fc270e8bf44dc094b3.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/72/99/b7/7299b735b34fe45068b43b7186e8002f.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/20/68/ca/2068ca160ffd7d421f7f5258bbf393b9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/15/19/d0/1519d0a2dacae27b11d34b328a78153f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/59/0e/1c/590e1cf59a5314351a3de23edee360ca.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e7/c3/2c/e7c32cd1bef3d9db5f70080b191d2626.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/78/93/dc7893ea8995ab44caf4662cce670713.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/85/48/c8/8548c81f2cc3800f8ed075b9364b47b7.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1e/a3/9b/1ea39bcd1d44c5462dbd9ed30fdd9d0f.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/92/86/4192864728ff806b7ab0c4b311a7fcd5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/97/e6/69/97e6690fe70fd72aa8d66799b22a0997.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/9b/70/b49b70a94c671642bb94fa33be90637c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/82/c6/f982c63460551d4d0b3b504ae12ef399.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4c/37/bf/4c37bf32b3b5da6f039693a548e6987c.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/9e/81/a49e817a6fcc9eb5298d3c901679b410.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5f/13/3f/5f133fe41e30d18f599e8fdf09d831f3.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ba/af/a8/baafa888c581d3393d44808c2a8470a1.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/13/a4/ea/13a4eae4db6fb3ca94dce6e11fbb6b39.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d4/62/2d/d4622d6576e01f0ec162f8548d9a8aa0.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8b/15/22/8b1522645ab24a7c0bbd525dbef9bdef.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f9/6c/39/f96c39eb694978bf3ec963b15e0b3098.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/87/ae/2a87aea0cf7e948df9dd89dffc2bc238.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9b/3a/f1/9b3af18916d589ca7256c3d4c132ab85.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/db/ab/c0/dbabc00dcf9a446032b280556a944e3c.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/e2/8f/c8e28f5e075aac65c08feaa74f976622.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/53/fb/ac/53fbaca67d686c6472c4c35fa36ad33e.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/25/20/14/252014bbc0cc13a083b381f631fb784d.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/f6/ed/53/f6ed5366b961c8e960a4ac5b6ffdbb41.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/68/73/e0/6873e0150a0087d1c78ead4a64a7243a.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/22/35/e22235f6566ba5fee59401e6dbd54e02.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/da/04/79/da0479c2d2d195c12f9646399f7eba5d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/7c/12/737c1241005b89356a34f2ebe1eb414a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/57/e5/0f57e54374659fd4c2a22ef91eb22754.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e2/4d/fd/e24dfd703d06f8ca6e7cdbd4b02e8949.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/04/14/6d/04146d79ca8f7faa2105f36aa0c60b1a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/64/6c/12/646c122f7544b72f0b5e974d9101ba2a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8e/24/a3/8e24a335e0266bfb17ccad1a507283a3.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/41/6b/36/416b36bcf498bdbc404ce645194f285d.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/24/1e/76/241e76b5bfb7e930f67481581ea1a0fd.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/6b/1c/30/6b1c30e263c3c1affaf7da24411d5703.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/77/5d/ab775d5443b7fcdcba123dd9f9115d00.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/25/3d/75253d906056cb622f718d4465e6f7a1.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a4/78/51/a47851b1c717a78180e537c6c49a0a34.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/82/8c/08828c750c1e91ff3e8d4ae1d41a7546.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/40/e7/89/40e789710e286807d3e182c5bb511f80.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7a/f9/a4/7af9a4014befc1ec4434d61aa913af6f.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/05/da/18/05da18cd2e4090be8ca913ef2ac95c53.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0f/bc/37/0fbc37bc3d456b22304908cfb6819080.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4f/d0/a0/4fd0a08b2e4d50cbde7b794da2c57a45.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/44/02/07/440207b371a6936371b3770668646c4c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/08/e1/60/08e1604ae1aba396ed063ab55d51be26.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/11/2b/61112b6ea670967a0f77f7b1e5ac21d7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2d/41/a7/2d41a797d1a544f088d6b1e4a81a31e5.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/35/b9/5135b90f2c99e23caa3e7dbd243e0d75.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d7/04/c7/d704c77b537acb34d1466fe53a7f21e3.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/fa/a7/0a/faa70a8f77cd19fb5b0e03c1145d7b2c.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c7/40/8e/c7408ea464165687cc4ad37c34c2d747.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ab/8a/34/ab8a346cf0051c5431ebcb8779158c1e.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/77/00/f0/7700f06b921bd99772b50ee99d4a0e44.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ca/ed/eb/caedeb10e6763e46adc7fa0c91e60bb4.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b5/b1/03/b5b1033e8d62780293bd5f0f7c635589.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e5/10/fe/e510fefdb56ef7cd71be80146dd9ece3.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/0c/d5/3b/0cd53bbc829129afd98bac7ba000ef0f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a0/eb/55/a0eb55afa33886c78806e018bbde38d4.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/60/be/50/60be50d5981d5a903f4fcf364bc6559c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b9/2e/0c/b92e0c530e4d0d999dca85b3a039c85a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/ee/07/8dee0751b583bc843e3ccc0c05c9dd15.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/e4/54/22/e4542277ddcc26e2b07a187f17ab9de9.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/70/4b/b9/704bb93a098aaafd74b42c5df8e87385.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/7f/80/89/7f80891c7d4846a27e84af37534f95ef.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/37/d1/a9/37d1a9964cfaac3320153266f6f14d6d.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/04/5a/07045a16f41d770844ef4d0951a7f0ca.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/2a/88/6c/2a886cf7159d9394e611ee0b7a7a2c3e.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/4b/c4/48/4bc448962b13151ad7ff841a935c3d4e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/61/09/cd/6109cd88b95b8934e3f4d3da2a6c8834.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9d/84/df/9d84dfb1372b93ad0d30585d02b3e72b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/8d/d9/eb/8dd9eb83cea708547c810c4618d52878.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/d6/f9/12/d6f912a4cf80401afa03f8f6d8540d37.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/43/27/13/432713b291d9472ede5866b1510b7255.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/5a/4c/e9/5a4ce9d7fee686c7c80060c0a36c1f53.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1f/98/bb/1f98bbb47b8fab76c9db63d6f3c67c12.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/07/70/cc/0770ccaae17ed93be697dd2676466fc8.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/73/3c/39/733c396a9d779e5c7b151f9d3ff0d4cd.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/b4/4c/ad/b44cad75127dde75b09f606b719f0931.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/58/09/a7/5809a7c29924fd22e0b6be0fef8a5d7c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/cf/29/41/cf2941b5f94b939586cb8c269d36c8f4.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/1c/fc/4a/1cfc4a4238463c6eec37139ff6a42bbe.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/ee/0e/5e/ee0e5e3f7c07a3169093aad11d7fed51.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/df/df/67/dfdf676f9d529ebdc20c8635cfe0aee8.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/a5/99/27/a59927df8eecb3470f9a0bb4c3956a45.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/dc/57/bd/dc57bd36d99a877c9d3ade4da334443f.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/75/07/4c/75074cce5f0ded0618d6ccdf00b6f42c.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/51/f6/26/51f626f58236dc593aa4ebdaac47eef5.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/6d/85/9e6d8542c708dedd4120063c86a32f39.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/9e/2d/a1/9e2da1451bec70d87cd1ce38f7bb7792.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/99/b5/ed/99b5ed65a77e196063419604fcac5c6f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Water Color Wallpaper",
+      "wallpaper_name": "Water Color Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Water Color",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/236x/c8/bb/17/c8bb1720466173847cf685e786be5afb.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
