@@ -1,37 +1,1739 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "kawaicat"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/8399711452",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/1924150052",
+      "main_ads_natives": "ca-app-pub-3376721963677182/6545921344",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/8297986710",
+      "open_ads_admob": "ca-app-pub-3376721963677182/7781754659",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~2989819711",
-  "admob_banner_id": "ca-app-pub-3376721963677182/8399711452",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/1924150052",
-  "admob_native_id": "ca-app-pub-3376721963677182/6545921344",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/8297986710",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/95/e7/2595e7dc79dd578b8571742598973e40.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/95/e7/2595e7dc79dd578b8571742598973e40.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/55/bd/f255bdf018c85b101e276389818596ef.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/db/30/83db302fc5ab22e0d01e36824c471941.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/58/a2/a2/58a2a2fd13d796e0e6a7d958c116f684.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/62/35/d36235d2588c5ac07364ed3a61e87c76.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/ab/f1/1dabf10c6ca35bf0fc733b68701b9a79.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/dc/8c/75dc8cd65f56de97a1964d327d72c784.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/b7/66/30b76607a89a854908e6b75732e39910.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/57/54/1657540a945ca4608317ef10b5fa29de.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/55/25/a65525c97a6e5065f13dcf5dae96e218.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/05/c6/5f05c6764c8d42eb69bef21ac5d09df2.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/53/2d/e8532db439c923f1732bb9a4fe77808a.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/cc/19/adcc19e3b7f6b153c6f6936ae2a9c42d.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/f0/48/2df048064c6ef202eeaff995ea03f5f4.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/9d/a2/fa9da227b67a0dbe39fb0bc95a578ab9.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/4b/22/174b22a47fb5c25e6274974a022d5c6a.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/d6/ee/d0d6ee6b58949efa4fff80a7995b1af2.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/39/6e/e9396ee07b8a5224160521cc2def321c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/16/41/dd1641ece7d7f811136e29549e074b02.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/21/06/9121065f21de46c4e8e1533a84f9d218.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/cf/e1/f7cfe19050679efd4fa855ab99461ac4.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/40/b4/7b40b48081e6ad34109ad1e4755ad4ab.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/65/6e/35656e17ab7973ec536555c7f44e7c73.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/a2/7c/c9a27c73f1e4f0b4fbb76826ecd48f16.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/83/6e/b3836e6315c36b055c7660d6910fdb01.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/34/1d/c3341d131ce7218bab054a8703e11aeb.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/88/69/2b/88692b8fd175c95fd5efb708eaf1b38b.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/07/3d/92073d337a31c9bb316aa31e4ea412ac.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/16/9d/63169da2b5eccd262ce780b32a59c497.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/b8/b8/25b8b8bac843b1e37a1408e08857046f.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/a6/37/f6a637896411fcbd39cd74cab645c479.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/11/89/3811890569bbadc469e3d39141f32cdb.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/17/0d/8d170d0cf114189e569c2657eaa60ec8.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/56/d4/d2/56d4d21a8a26ad27de8be32023c079b5.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/ea/44/7dea442944988d04d8dfe1649d695cfb.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/f3/c3/4af3c3cf9285d31aaa61d6124d2489f1.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/ec/9f/4fec9f0d30f9daa2e8defb3757702bfb.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/69/d7/6a69d79c55c2c935b30b1466e20ef641.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/46/ef/be46ef50ec84a09bdc51fba111b0447d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a0/80/bd/a080bdac6e64a929fa79f9d26c74e077.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/73/9a/21739af9460c7c2e65ba5c4aad45844c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/af/46/efaf4666df1925c2f4ecd49cd50433d7.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/63/08/a26308793ddb884b2edc073187e98691.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/19/b3/2e19b3d924c577aaec3a59d3df33f21f.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/04/8a/c4048abc5b78e7508c8ba82f2292da8e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/6d/75/8a6d75fac7f2d7fbc9262fe990ec866f.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/21/cc/d521cc4532aaebfb43db015754e378e8.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/ca/7c/69ca7cd269e752eba1b869e83937b64b.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/b7/c3/4bb7c303a2c2121941da48961f762e49.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/56/57/b65657b4da57c4ff3f559c4196569d2b.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/f8/50/8ff850bfee2b4c41e5b9c8632d1d7b7e.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/c7/cc/2ac7cc9ad31c8df6228046adecd4dbcc.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/7f/11/a27f11f26999895f7e90674180668a51.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/27/a2/0f/27a20f649e030708719cfd1fc9db3059.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/5d/5e/955d5e407a80201a1366e22d35d589ff.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/87/43/d7874373efeeebc09f929c9b2f8d20ac.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/77/2d/d2772dd61f3737a2a3611461b7714e77.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/8a/05/028a05044a75406f73a19fca2d15f2ec.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/b8/13/d5b813432d41d7e6f3f349e74c2f15f4.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/f2/96/10f2964e1d62a6120e63f24b8beb77f0.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/5d/46/ad5d4664be9b3ce61182f0db1501ba8c.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/ec/dd/abecdd7e037fa1710ebeebe0fecf9c51.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/56/ee/76/56ee7634aae6b5ba4b6983c0c2062bf2.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/ea/57/85ea576f167183490d93f780486e624e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/64/51/2a6451f8b8734dc5dfd33679933db00a.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/09/b5/d309b550623e9f9e1ef099c4c6e5efda.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/08/4d/11084d86208365685adafc1db5118199.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/90/1e/2a901eabd80d37b29d6160db5f75e7a8.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/77/46/6977465fb09d6a8cc874d9ee6fbb3145.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/26/d0/f826d07c750e65898c4a34f42f85b42b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/43/0e/05430e363f7e36733d21587a81fee28e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/64/af/4b/64af4b8986d8da75a00d8cf5cf4d9e27.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/cb/2b/5fcb2b6bf5d7078f3efcdc0b854dbd24.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/54/65/ee546557158a9aec7554aecabaa8c00e.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/dd/93/bddd93ca985e880cf804fa3a6d81b2c1.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/36/bd/f136bdf0c8dd4a0816d9f56e900014f2.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/59/6f/a8596fb04f4b8d262d46d59705bc4a84.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/93/bf/ca93bf851a5c9d8387625e0f07e09ad1.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/43/aa/cb43aa8359db5f7e39c1c60d751a456e.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/c9/89/1cc98950894b057900d8e768d12659aa.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/a8/a5/72a8a5c85dd227d30c9a7bf137514d4e.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/8b/61/df8b610a531d835d04d0908822324788.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/ec/c8/93ecc86951de841bc32dc933859a5214.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/20/48/c1/2048c1d2580c60dfdb34d23382ba43e6.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/f8/7a/f0f87aae3fa4c5b3b98b94d425868c48.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/08/73/42/0873429bd4ec4481d3fc6e82c11b26d0.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/27/8c/db278cef133805ae28350d3647dcb498.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/fa/0c/b0fa0c032546066f8deda3070a96d3f9.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/59/7f/ba597f4f8b455a21d594020a466c1d3c.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/57/71/d6577112ff6171a4ff43d414e3dcce69.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/1d/51/401d51ee48a349e126e51c26d2e27f8b.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/77/a5/5577a58d66609d02085e851c5e2e06ad.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/00/6a/5c/006a5c3ab22a752bf5fd332b4ae5a9f5.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/61/12/636112c4830ddc943b46ae4969560ea4.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/5c/9e/035c9ef131f766163befab1e0c66fb3b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/17/04/831704812427b04b81a64ac8f407fdb3.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/89/2a/e9892ace97e591e51df93f2fa4493c41.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/be/f3/b7bef3bd035518aa9adc1f8445c653df.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/57/a8/4057a8b6fcb74064f921af24f8dd23ec.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/07/39/840739acf6c011561d54dcde460ad7bc.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/33/eb/5133ebdd4b0e957f6aeeef52d2faf592.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/2f/6e/1b2f6e0e2494a992289a3a20c8d6c5f3.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/26/a7/b826a7af24cd21bf7169a523e7b754a8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/57/04/a6/5704a670e2538b37fe7e7071a4ced43b.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/a5/ee/0aa5ee98671a5b292e1793bda1bbf870.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/b6/0b/7db60bd552809020a56088697048356f.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/e1/b2/2ce1b296dccb7568196c3f6d25351f0b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/0e/cc/b20ecccadfa098d4b09abfc4bdbc1ffe.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/b0/d5/fcb0d5a337e8f284cc1fc5291e53209e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/66/a8/f466a8aac08c80f007ef3044e2c5db87.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5a/33/b5/5a33b5947a523f11c1cc2057bc811f03.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/9a/38/779a3876d8ba8714a9ca4791757b04d8.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/d3/9f/6ad39f107fc42c1edfa81b675f4e2372.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/88/92/f78892ee561031b2f8445ff63de99669.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/49/cf/0f/49cf0f541aa0afe61e7842bd67e4d722.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/0c/54/950c54c50555a135a0b9dcd0a3c5b324.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/70/55/88/705588e8717014dfd862ccb8f02ce4f6.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/18/10/e8181031f874980d830980d6ecd071f1.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/20/78/90207824c66a051d35b471278067d7a4.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/42/42/37424205817e8475b44c6482ca677b8b.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/14/ce/f014cefa73b71bcf816d7b469fb4a2b5.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/24/52/a324523e8679e5fd1669d1b4497f23e2.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/32/2c/21322cb98d1918c29056854db1d196c8.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/45/a3/1c/45a31c38e72501b56360dbf21f1f3e8f.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/b9/4c/85b94c879c72d3bd680f0c9cb003c824.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/d4/50/2dd450cfc2fb706a658a7a868e5f95e0.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/cd/e5/e1cde5c702c87c383d84ae37294d0c00.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/05/7c/a7057c319e79243fb010df5c5c30367a.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/70/92/37709211e228b1183b7931b067f29d71.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/94/3e/d3/943ed398680b13643806348b83ce8b89.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/41/ed/e241edc120b171c4a7f7201dc304e2c4.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/6a/ab/386aab704c875cb7461d12a0ec581a15.jpg"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/0f/b3/f00fb36590af5f06fb41fe69034e7bd7.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/29/64/cf296430cfec556b965294d52109cca2.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/b6/5c/f8b65c63b3794bd2d0c339f8f6572eb2.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/c0/c1/c3c0c1c2e556c292c840b546d0ab6044.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/84/07/bb840702ac6b4c4ad43c9d2ff8968b4c.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/66/5e/c2665e4cc3e51786fd859b5ed2a2a522.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/0d/c6/df0dc60339855ac019c59133d176f249.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/c5/31/3bc53183b41324e3e1a84b23f6e068f1.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/ec/26/dcec26ec84c9b822b8b260cf36a87c26.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/28/cc/c228ccd0872ea76baf7dd2f0e4284502.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/51/14/165114438baaac6235c50a4c77b66e90.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/f3/fa/a7f3fa5133910ed7478e168f76f61c4d.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/83/5d/fb835d79ea61eee4ebdd5fac7eb63117.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/29/40/542940f95d7d462d79372ccf8723bc3c.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/da/9c/f6da9c2a241cef3356560864e5cb17ec.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/d7/a8/65d7a84bbb5a4e5d604fdd98160183f6.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/56/fa/c456fa5c1504ef71cf302962dd621993.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/d3/c5/46d3c5ed18825249847b49d144533eb2.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/0e/06/ef0e06bf20555cdcbff72e04e1058dac.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/41/c8/33/41c8336e18c9ed4964f429129c79ca58.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/30/cd/6e30cdbbca38e092f83119a89af9db9d.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/29/fb/be29fb26b574f057d1c7c5533cfe85a5.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/8f/71/e48f71b325f67514ac2e881717c34134.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/9e/60/e09e605c9533f65a313e129cefed9d5a.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/12/48/ec12489af5d1c7528e71d854b967d293.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/48/18/5f48186c31ee17e0b01455db2043697c.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/5e/0b/4b5e0b88779cb37c176983da986ab8eb.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/dd/14/cf/dd14cf0ac390e6a8c19a2d5aa576183b.png"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/07/7f/6b/077f6b178dcd05d7cc9efc32a73885fc.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/8f/8c/048f8cb433b96d05927e90e246019d49.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/b8/fa/4db8fa812a79ce65b6d2430cee6b8e56.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/9c/eb/d19ceb9aef78c3a78d006b9c23a429fc.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/ce/e8/04cee8cdf536af4f56704fe910612679.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/1d/0b/f21d0b21d4d2742a0257911c622a8f28.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/44/a1/b5/44a1b588a987f95ddce23e907fb6c87b.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/f4/d3/ecf4d351d844d334b9c048df6ec54ed4.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/d7/11/34d711a40e9a8b6a59db507e01f1a7f3.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/18/b4/9518b4a7c013d75df1cf8b2f0aefa69f.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/e2/ba/6de2bab0be0343ac3034de591bb22372.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/01/e4/65/01e46512eca0874ee2cc4f218a3eb898.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/b2/8a/dfb28af3e23b753cfec20ae37f458102.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/ae/bb/b0aebbfce901ce113a5d42a304d6fd2d.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/47/19/d047195e0457fc182886256121be1afb.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/eb/61/c4eb6158b4d5b4374ee33c0a60718b53.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/1e/ed/d8/1eedd8e56d3d3ece5a04eae929c328af.jpg"
+    },
+    {
+      "id": "115967759146006445",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper115967759146006445",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/13/b2/30/13b230e7cd861d65445e83f123df7822.jpg"
+    },
+    {
+      "id": "776096948303992611",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper776096948303992611",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/d4/f5/efd4f5dd82e58b0bbcb706f5da4a31fa.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/3a/58/2b3a587865226b28139baaca49342b0c.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/20/7c/f4207c9ef6b4e8cd77ab51fc85c9078c.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/dc/35/abdc35d5e335bb9dacf2466932496e9c.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Kawaii Cats Wallpaper",
+      "wallpaper_name": "Kawaii Cats Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Cats",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/4a/83/164a83687ede1b878e744057124eaa9f.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
