@@ -1,37 +1,1010 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "corgi"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/2628510024",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/1315428353",
+      "main_ads_natives": "ca-app-pub-3376721963677182/9002346684",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/2436938332",
+      "open_ads_admob": "ca-app-pub-3376721963677182/2552644551",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~4843609821",
-  "admob_banner_id": "ca-app-pub-3376721963677182/4931239732",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/8810774995",
-  "admob_native_id": "ca-app-pub-3376721963677182/3558448313",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/2305076393",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/49/f1/ea/49f1ea4c0705bf45ce2e4e3df1928309.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/49/f1/ea/49f1ea4c0705bf45ce2e4e3df1928309.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/b2/e3/98b2e341596a09c7c299f5c718ed35a0.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/59/b2/5059b240ffb6364c7454588735731d2d.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/55/ad/a655ad01fa5707f43cbb33a84e7623a8.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/88/1e/61/881e6121bcc823d271c5740a2fd76882.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/76/8d/54768de87780e8f899da5650ff0c9e73.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/32/c0/f332c08d05ce4c797159374bd9d5d295.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/4e/34/244e34664a2e3c287bc0f56b4e8f0b5f.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/c4/33/dec433a173746cfda1deb92e028b98a3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/2d/21/912d2143a5ffde6e651657c7eec471df.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1f/89/78/1f897855beb40c9c99e589be7539f9e6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/48/56/a748566bcbde681694f3c90c5a77d62d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/08/0f/10080f5f6bcbaa1b28a6ec0dba223d59.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/73/41/92734165386f1f924fa5b3e1888435d5.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/1f/e1/1b1fe18c1f3bb5cba1990d9da38ed729.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/3b/47/8a3b47dc2d997d0899d37876b593c970.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/27/40/66/274066be127c0e5ef1d41fe205301cea.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/48/e6/3448e694b7d96cff1ef97098495703e6.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/9a/e5/c09ae508d5c17e876ffa21120f044d67.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/ff/d7/25ffd784094e11451ba5ffd3bf61859e.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/57/d0/78/57d0782f81b6d80c894914ca406c3f2b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/68/56/ec6856223db720ed52dbd436b358522a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/58/e1/f0/58e1f0897674a3bbd1f4d245b6005b5e.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/28/2b/3a282bccadf44db37b7355e70897cde4.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/3d/0e/6c3d0ec73013b80e725746df7c299174.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/4a/ae/f84aae1715fbd6cab5def9e1e14d1319.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/a0/ce/8ea0ce89ef116e5fb1a73ea98f051055.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/98/23/ed98230369ad041cf726018fd91a51a9.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/b3/a9/d1b3a96ffe3fc60f8951e85a2f1ea98a.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/64/29/3f64291fd2d3e1b5f19c87b55c7234a8.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/26/03/de26034e93c78cb7efdbd62569554a28.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/73/21/6a/73216ac5046540371bd73cc6988b163a.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/e4/a4/4ee4a48fc88144350a9e190109a58921.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/d9/28/74d9283c93a02a2b87d4d3ade3445c6d.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/74/d8/1b74d8da7433b3a6c30a2e32bb9302e0.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/09/a8/3c/09a83c92e1edc450b72c4a1ae61b8d0b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/9c/69/db9c691b80de30ec2b70432926e06221.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/45/e2/0a/45e20a0022da91a71fb485a5097dca74.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/79/28/1d/79281df6c690ffbd8ae7673fb515fd46.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/82/ed/bf82ed39ccf9bc33724d809ae70f7a33.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/29/d2/cf29d2325d49aec60671b5e55a2046f8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/af/ed/aaafed53358e845a2975f1275ce5f250.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/6a/85/b16a855b8b37ba5990de00c3a6517cca.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/c4/d9/b0c4d930fdec4355ce5cee6c2b112560.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/c3/63/e2c363710292c55bf6bf674e7d59e1dc.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/43/34/3143347b3a2452dce66225dc1c31d76b.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/35/53/2c35539855a5ed104f87ea3ea61d56f2.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/d8/80/e8d8806da54b204688dc2a9c69d31fc1.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/32/f9/d532f9543b792a8cb3e522edcfc24a80.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/8d/19/5d8d192bff6c6f2a8555bdd4e07ec6c2.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/56/e9/a656e96fb736bd7baffdd8b8f9a81a01.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/af/8e/71af8e118baf65127d82efc42ebb919c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/de/ad/21deadcc5b569a3639fd7a57ef29c941.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/59/34/c55934543677f73c59d05b939c55c94a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/76/cf/b276cfea2ed9a655a90aafa2a0deee97.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/24/d3/7224d301cecfd5b81ab8f95834f1377f.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/d0/89/1bd08915b26edbd4e23ea453e6c60edd.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/1d/96/4f1d9661ac4b5400cb6c329b71b186be.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a0/40/2a/a0402a4d02aa18c1020aaf856e922d26.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/dc/d3/62dcd3b45429e4f20e3ac382d63dec46.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/a6/70/03a670f0145663f7cd59a91214fc6853.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/3e/40/d73e40a9773b20ee9d3bc88cae733424.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/51/4e/c1514e4d4d8c73719ca9d211f6709356.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/37/f4/c037f41ac9749ee4d18689401a09129e.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/01/16/fd/0116fd349762ff2ec6b94636ed996e8e.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/6c/73/6b6c737059ef3c01253c80e43bba1e49.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/2a/bb/e62abb2a89f2cf78398ed05397751360.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/89/d9/31/89d931fc9edafdb371a728a74ed3b5e6.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/46/a3/8346a322a4b0d5c1bc11e14839047b93.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/a6/26/eda6262e9910303479708b0dd33082fc.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/7f/26/537f26d0d319c13a65742f263fc54cfa.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/eb/e5/35ebe589ed78abdb3a72de69b8c48ab1.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/6d/7b/316d7bb8cd5c27b7d536c1e9c64b0926.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/00/ed/9d/00ed9d68d9e6cb8a09547ed049f529fa.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/0c/e3/620ce32e6d17c463940d2bbb9f26c41c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/65/d8/5465d8707248189233c229918ca70967.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/c5/97/83c59783021d092a79eb5a281dca6e8d.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/d9/01/9fd901f9b560bd993ad85ec7e36b149c.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/ed/dc/8beddcfd97b3c101d94d02515684f5e8.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/d3/be/5fd3be9b0dc0c2de2fc5dc03c3b46394.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/a2/77/c8a2775d005caddd2765b616af083c55.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/66/b7/5f66b71e85aacd5bb22912821cf254a4.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/d7/69/5ed76967f4e9ba32909d4bad30574bd3.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/b3/bd/ccb3bd7749270c7c5f3a64f2d9af4cd1.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/d8/df/53d8df9e94a01c35db2290b6da0253b1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/22/3b/c3223bc1f68d8f7e8cefa454e5f48b19.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/99/f2/a599f2ad82d64c4a2555d6598add3c81.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/68/d6/7568d6f069a25f5fa4392cfcee034a43.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/e0/e4/f4e0e46011da1787cc481e17d8573d88.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/ca/db/fbcadbeaa3dce5ddf152fc2301c2099a.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/da/94/7bda94cf10f1f2ed3566a4a8a25d0415.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/1a/55/f91a5535bd11ba746440526e2b6bd256.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/c5/9e/c7c59ec2ada0da89772e48dea20a3b2b.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/c9/b1/91c9b17cd0ec7fcf1cf84707e015b546.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/cb/fc/6ccbfcf47f1e710234e07cb33516cb2a.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/96/24/ac9624a018fea9dbd665eaf038bd20fb.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/4a/a2/164aa269920bce60922cbc5855de3287.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/82/41/f8/8241f82823bd83b2afdc68b94cd27943.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/13/d3/0a/13d30afc3b369491e71f7a73ff3199a2.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1f/b6/ca/1fb6ca9832f9cbe50a468a953535ad13.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/7b/e5/f27be5560b39db6253321f4097ab4c54.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/7f/fb/5d7ffbffafc024d9d8975835d9eb603e.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/c9/6c/77c96c4f491406f267a9c307278749e2.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Corgi Wallpaper",
+      "wallpaper_name": "Cute Corgi Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Corgi",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/b2/21/dbb2210cca5815397975731624ba415a.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
