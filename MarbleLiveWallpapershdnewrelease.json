@@ -1,37 +1,902 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "marble"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/8104197988",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/7040745363",
+      "main_ads_natives": "ca-app-pub-3376721963677182/5286462959",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/5615983059",
+      "open_ads_admob": "ca-app-pub-3376721963677182/9362978370",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~3043442997",
-  "admob_banner_id": "ca-app-pub-3376721963677182/8104197988",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/7040745363",
-  "admob_native_id": "ca-app-pub-3376721963677182/5286462959",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/5615983059",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Marble Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/ff/ef/e3ffef166d3781d8fed1dd01db53b269.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/ff/ef/e3ffef166d3781d8fed1dd01db53b269.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/c1/16/55c1162e0c9a927cb0bac2a7b067c7b1.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/fe/34/e8fe34b69689bb08b9481eaabdbf2f48.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/19/54/c019549a5e08f53951fe31a735bf433d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/c7/a1/8cc7a1654608a13aed75b4d5e129eb97.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/86/24/aa/8624aa8bedcac0be6d94c063f82a4f17.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/79/4d/68/794d687995105f1e7f854a192d897b3d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/07/74/c507745638ff25eaf780b57f5f0489f6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/88/5e/10885e068735acf24f7cf64eb89b26de.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/9f/68/789f684c106bcda6e0c13a84ba629f15.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/09/19/e00919df31354673afdb02cfb7fee58e.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/60/9c/62609c859132437752babde43833a2f5.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/44/1d/e1441d6fa9c53e060d39cf8cd8355a18.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/94/29/f194295cd26e83d5d5ba2d681c459e07.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/46/d7/eb46d7415706a307f94a30f9f1bbd9a0.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/05/6b/10056bb4871df26a0ad5971633eadcb2.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/fe/04/cdfe0419921ebcba418771504fd5bf36.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/a2/c6/04a2c6381c52457e040efb8058ce3bb6.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/cf/88/84cf88ee0fffd3ff2cc7cfacccc89799.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/b4/3a/3fb43a62bdecd8559709a1c2f6f18fdf.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/6f/bd/a36fbd2be6e17295f8178f6b318fc005.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/a0/85/6aa0855c0ed1374cfc714a67f2aa18c1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/26/2f/7a262f8b68d61912b526352ac44b639f.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/09/f6/1e09f67ba3b8cc2f9a8eadc2c2b68024.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/4f/36/714f365f7bde7c49094476b01d3ed7cc.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/06/67/0a/06670acbe72c4db4399aa017b721177e.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/29/72/e229729e17a70d8e16baf067e1bcc144.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/7b/02/bd7b02c8d5f8b75cfbd6ed5bb36fad1c.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/07/26/cf/0726cfc774c4dfeaa476b097576b6289.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/41/35/8b41358fd28d0928bb6e392c8b1d340c.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/6f/4d/1d6f4d55e55355a358d018d690218c41.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/1a/5e/4a1a5e2ebb7deadad44c84dfcebae160.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/d8/aa/0fd8aa28d2bce96104af276ea66524d1.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/1b/74/2a1b749f20f77bed336a8818a8dac153.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/8f/a3/cf8fa3cc87a443f8f68d4429f23fa385.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/fe/18/d8fe188666ba1de46a9c31924c531cd7.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/2c/cd/c82ccda831ffe051cf81679b0bf52149.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/57/a5/7c57a52a774914745c7a88f30f4013d2.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/2c/75/932c75a847cd1cb5a882148b291e349d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/79/53/f879536a01f87e5934539c539f505dd6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/0c/f5/8b0cf5fd92f3fe289eeb34f9aaa93e26.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/17/15/2e1715e4d252a4b92f5cf5718a407c4c.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/48/30/18/483018c84c1c95897058b1ff4b9be3f6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/42/66/0242669ba1b8b2907d89fd3c42f1ec02.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/02/ce/7b02ce2796e922fc6eb385d960ced249.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/17/cd/9017cde5737543f744960226dc4d5244.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/f6/e1/1cf6e1e752813e29dfde2e260d23c206.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/43/c1/d243c152c969d884037cc3e1b0551b42.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/fd/ad/b7fdad8ae2b6f49d7ece7a49cbffb013.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/a1/50/2ba150d9d0bda698d41ceac57993dac1.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/43/aa/66/43aa66c6ff87512213da65ab8d796902.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/76/02/c4/7602c4fad4eab180b4554ebb0f7d13ad.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/ac/fd/37acfdd6f26036312ad29337c875af95.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/ac/b5/c1acb5d61691b54f74f499dbd1434ea8.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/00/61/650061abd656c6a2d913ef80314d883c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0a/c9/bd/0ac9bd4f58aeab19c66efae1d2977299.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/82/a1/5082a10019bdc9b76bd37d8eabc44bdd.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/73/5c/4e735c161eaaec0513147568bce1e503.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/1e/81/101e817367494349b1a10cc65b60594a.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/e3/63/d0e363318c97cc8fbebb802a46fa5a2c.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/72/a7/0272a7527d5f4a968ef65327c4fef7c1.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/ae/cc/18aecc13ced55bf513fbb8eb476e4d18.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/0e/a4/ae0ea4784573bd8b303b19fdf97710dc.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/b4/e9/ffb4e90740d91080e0b06fe303baa3ad.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/56/c9/86/56c986728d02e9910be2bdb05a9ad079.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/b2/1c/96b21c4dd0e582fb3bb8b55aeab83c1e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/bc/49/bbbc491e236e0863d1e396ed78cc4836.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/81/b2/9681b2c390f9c9382d0960ecb6b5f215.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/7c/c4/a57cc442c7e3a011b94de88c801ef925.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/00/5d/93/005d938d35538a951aeabb3b585e28fd.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/1e/fd/d61efd1b73fed0d040e23838bd1d0fd1.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/d5/01/f7d501f0a3497c2df43e69bc10c87307.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/b5/85/0db585fffe3b517ec7416ea4d7530cd1.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/22/b5/59/22b5593a8424e633217cf32a75900554.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/47/30/8d4730db9930bf4f38eac3e6eb6fe082.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/49/d3/bd49d356216e0c7e7bbed92611fa2b7e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/09/62/1d/09621d362b9393ab1a7497d66a0f1def.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/14/75/3114752a9d134b3b77789331f8d41743.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f8/6c/2a/f86c2a1f97b1f2d0d2fd3f3853a85a33.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/2e/c9/622ec93f48d54c5a6c53aa0d81c3eed7.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/69/ea/8469eab79d0419f700c75b4d1bcc83cd.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/ba/9e/91ba9ee9617b5006d07f9423c66949d0.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/10/75/031075bb7cb1d3d329d6249210d746a7.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/70/d6/f970d6878879e1529cf02bc3b1a0f570.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/75/62/627562885c953549e1a1d9e1760291d1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/b6/ab/fdb6ab931bf5cb688e7364ad5d585cfb.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5c/0a/d4/5c0ad493d8f7c0445b6841ebfb7f4d17.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/2c/59/9b2c592a295850421e2e2137e7013780.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/e1/be/f3e1bed3ed7b0a51e51b916c3b65a9ad.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/62/b8/a862b8f9bd83a98e0fdd4d691a8c52ec.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/48/dc/ab48dcdf419f6ca97512088a7a46fd6d.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Marble Wallpaper",
+      "wallpaper_name": "Marble Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Marble",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/cb/a6/c7cba60d8e7583bb067820e33725d94b.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
