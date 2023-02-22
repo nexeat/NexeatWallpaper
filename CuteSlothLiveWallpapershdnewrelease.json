@@ -1,37 +1,902 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "cutesloth"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/7214051470",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/9666908707",
+      "main_ads_natives": "ca-app-pub-3376721963677182/7278201473",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/6982688006",
+      "open_ads_admob": "ca-app-pub-3376721963677182/6470071786",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~7232317051",
-  "admob_banner_id": "ca-app-pub-3376721963677182/7214051470",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/9666908707",
-  "admob_native_id": "ca-app-pub-3376721963677182/7278201473",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/6982688006",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/23/bf/9f23bff1c1c94c27e70832d3c62c9e07.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/69/e4/3a69e4956ce4150fa4b652caf6e5c6f0.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/51/ad/ef51ad6733e05fac9e9f07733df063bb.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/a2/d7/bea2d7fb0e510e89a329c8361f6f55bb.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/0c/99/bf0c99d23aaf92da9ce3d87651b41e2b.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/23/35/172335ba9b925aca7aa186a2d41c0797.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/a7/a1/b3a7a121e52cfe29663ce59a0188b906.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/8a/d8/fc8ad8e0f5174f5466ee31ac1604618e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/5f/0c/b15f0cca97ec91ce8e2c47fbdaf4500e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/b6/1d/83b61d92115c4c4554079267ffea5621.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bc/d3/70/bcd3702237750cc0e1c91ad4c1e0a401.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/f4/79/81f479f6578fa27a6ed22f2b24ac7c13.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/62/ec/1162ecbc4337851fd5931855e69b10c9.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/bc/fc/69bcfccccb150647deccac7e0c7a8bf6.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/59/55/9e5955d17aecae591c6f483c327a3ce7.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/0d/36/d80d3636a646d28284d6b8738326f8f7.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/d8/74/3fd8744b9d20a9975f7b21a78e1dd657.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/21/30/ff213024ffdf548e24076395d2c0ab9e.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/1c/77/241c772167623acc56b41d56458b2ffe.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/39/c5/4b/39c54b09b1cf8900bfc06a70b986b4c4.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/b9/6b/9cb96b6d90af06eb98c2093332a7b6b8.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/69/d3/a469d3ae32994e0382209e55d6fa5ab7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/33/a7/2a33a744fcedc2a4e8b0797a6f31225c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/bb/76/8fbb762336a91255cffd53ccefac2c40.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/3c/96/fe3c9633a95e8951259a9ace95547773.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/5b/eb/f45bebfd04b9c64be8abf38b34eb3fea.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/fa/12/abfa127b7bca21db61641a6778294a17.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/c4/99/cfc499c0ffe3c8b18f22384cb8429217.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/70/a6/19/70a6196d40108f26c92a80214531ba20.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/75/ff/a175ffb4a7f362903f7f28a6c1b8ab76.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/2c/6e/6f2c6e9b68aa0052b059a1b775da053a.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/51/3a/ed513aa99c023d771a1165669376fd4c.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/cf/41/1ccf411903a5d1dbafcccaa03e11b273.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fb/d3/9b/fbd39b745f6f6b6f5a1c6e0d0d5aeecf.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/17/08/05170874a0791d1bb05ce93b9784ed42.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/af/7c/99/af7c997cd2c2f9c1b85209d8e7aae1f7.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/09/3f/c9/093fc9091ec2be935748d82c008ea8db.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/47/ee/9147ee9bae5ad8e38e7102928a4de795.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/ed/56/deed5680f8783a018d975e8d7f3a57fc.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/6a/61/106a61284172b59f8b65c046e58bda01.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/c8/26/cbc826d5310fef9aefff4eee1142a41e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/b8/cd/d3b8cdf59f1190e5fd2f964c48b9b0bd.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/eb/9f/21eb9fe8e6e6bb60b245537582918788.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/77/85/f97785ac878fbef0b7e2ddc7852e043d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/33/5a/cb335ac64e1af9534e1a2f6e78a54f5f.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/41/ae/7c41ae25cb1e5086a9977fe34f2b4259.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/94/b8/c1/94b8c1141b1f68d0b4129a385d7c93b1.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/a0/b9/24a0b967114d7b5971b76cb35a681443.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/f5/72/1ef57253bd58692f803f53f5ae1963b5.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/3d/3e/713d3e6474326d48cc3fe316d972cc15.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/f6/d4/b4f6d492ef7013eb3e5ddf06695ed888.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/22/d6/fe22d67b88fd54eb7aa6dce661ba154f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/a6/f8/9fa6f86e7c6a41fd5cb208656cbe3c3c.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/32/a0/e932a09c75ac44835232803b26d4e154.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/a6/8f/29a68ffaa78eb93e91b73c7326940a94.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/60/16/8b/60168bccafc5fac78f43edb4a11053f6.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/e9/4f/cce94feebb1b1fce3a075c6b5861c7c7.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/4a/56/7b4a56412c3cc98d487bdd838af4d456.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/30/97/e03097ae6d4bb7e3bd64a92c43050b93.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/cb/50/e8cb50f0787366e68486461c0c783d25.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/bd/e9/f7bde917d36f9fd435067768645802f2.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/21/17/d62117d0530609a8bf5745e1958327d5.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/71/23/3071234ddf9afbd67b3c992967c069df.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/32/88/0e/32880e4dc14ee7b8ec043186b073be80.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/3c/82/7a3c82f1bdc2a21afdb3bdb95ce36a3f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/be/10/fabe1030a0c5a2d51a59503db7f82ffc.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/fd/d8/3afdd8cfa03299b12c01b3508726820d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/4b/53/ef4b5381233831d126c358ead2e6c763.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/23/cf/dd/23cfdd7b54ceba8ad9d1f144fa197a5d.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/c8/33/63c833c674a238214fff5d2d24324b9d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/36/65/e9/3665e998820b9edb90d63dc43f0ffcf8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/c4/a9/dbc4a9c7e8c5520496995368740fdb44.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/87/b3/5f/87b35fbf89f422b5c45115b836f7b1cc.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/a6/2b/cfa62bdb80b65f29380ae56db55fe464.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/f7/02/fdf70296dfe616e9dec9c762dbeaeee8.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/cb/a0/0dcba0a357b86dd9157edaccfe7c3122.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/23/e2/d2/23e2d2dc944cb25af1205db860661c9e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/f4/e6/bbf4e60e7fd827f1f236c062097ffce5.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/7b/bb/117bbb8daa89bebe3936813c5eca8758.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/f0/f4/28f0f46a5ece0dc2fc12f45516f088fc.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/14/bc/a3/14bca319b4b821f7bc4824bd5285e0dd.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/44/88/1b4488c7c1d781bb01dc31ef83d19c77.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/81/28/218128707d691485748b3c3e2753b5bb.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/63/07/5963072e8f87f3300db274f0fa915c83.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/da/77/95/da77959af4d5641b1ac9f26b2f1c4e17.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/33/fa/1833faf0c6e0647856475dba3c8f8832.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/58/22/42/582242c8b1476d26ab211412d6c7d8dd.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/36/c7/8136c7406061b2d09b40b88e7c9f65b6.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/a5/02/f1a50226c1c6e40486f3db2c0473a35a.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/49/3f/db/493fdb10e85eecd5f18c52c99d2320d9.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/d4/62/7ad4626901a0b7a03dc72136abf85bf2.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Cute Sloth Wallpaper",
+      "wallpaper_name": "Cute Sloth Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Sloth",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/17/1d/c3171dfe0eb3194002162fae0af26151.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
