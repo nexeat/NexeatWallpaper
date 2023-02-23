@@ -1,37 +1,1001 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "cutemermaid"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/5065318710",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/1126073701",
+      "main_ads_natives": "ca-app-pub-3376721963677182/2470944969",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/7308338674",
+      "open_ads_admob": "ca-app-pub-3376721963677182/4898271133",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~9004563722",
-  "admob_banner_id": "ca-app-pub-3376721963677182/5065318710",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/7499910366",
-  "admob_native_id": "ca-app-pub-3376721963677182/2470944969",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/7308338674",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/35/77/f735778782206bf14477addf3bb58b10.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/66/95/22/669522fd4bb9980785975be804261d5f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/18/97/9e18975efc0dd0ec2ca838e719ad84cf.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/06/79/d8067921d741ba4b9b09d06742141ac3.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/fe/01/b6fe01c2e295974a205f7a634bc3dd90.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/8f/6b/b48f6b9d53885331ddcf084346cc01b6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/1e/f5/a61ef57cf13bdcad90495a1732142a27.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/2a/d8/f42ad84267a0e03242af4c447a7c4d51.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/f0/ab/93f0abf65529465b0983376e085193e6.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/40/a9/e740a9dfa92920c77d7daf381b2822ea.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/cd/56/efcd5670c89ef59d938256f6fc5786b6.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/42/06/f6420681c5c9125f3da9a9d0ea90034c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/23/f9/1c23f9ea40595687959d38ee7fe611a9.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/dc/29/2bdc29ee29f07caf64d65d08ba9d0fa5.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/1d/a4/d91da407f053e43a71a7f5bdb889c843.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/a3/29/f2a32929ebd71ef6f6de778910bdb81b.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/93/a1/1d93a1355585c2e771828a665f6a2255.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/43/45/d8434596d3ba720f8de9488625c1cddd.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/e1/44/c1e1441c18730b061339ba2ac85697ab.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/53/78/b0537893ffb43e11e064c77a9f92495c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/ce/c1/f3cec1c7c863ea4ed77445d8fa71d8f0.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/be/f5/21bef5de3def031e068eccd4b5a52a99.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/4e/98/3e4e9849c6d5142f23b72b067c554e75.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/4f/20/d64f20066215a6f93e50cc34e0ff4261.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/a8/2f/1ca82f21b8605f51c654be3093ec8cb0.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/18/58/f31858978611c33f575afac2f5e0ef91.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/76/ac/e1/76ace113a699f20ba22d86fe1261b4b3.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7f/5c/63/7f5c6340570e7b450b7ef2216ccdd10f.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/cf/a2/11cfa259efb99399c79c8c8bdd9a2ab5.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/64/52/b1/6452b1f35794627cb7e82d9f65099888.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/82/d0/cb/82d0cba875982df1c0a06eb6e2200ce5.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/64/0e/2c/640e2c9e40db76d6094cc5a722114c97.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/a8/4d/dfa84d3d3c5b7ac2bc83a15bd8a2087c.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/c2/e2/35c2e2c96e83df8340b3cc3de7a3ae72.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/52/fe/1252fed585755f989ecc62028bc7495e.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/37/4f/4e374fc47a28f48d9e989d47051a30b3.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/34/00/053400a40c969bc13bc4b1b68ab1c2a8.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/47/0a/df/470adfb5e45bf1eb9114c0d7fd1b426f.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/e3/81/c5e3813611affc9c5e032e77a97f800c.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/2b/54/4b2b54809e7aa4817a8df7a034f783fd.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/34/5d/c2345d99a1ad04f80b0ab63745124327.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/9f/0d/ba9f0dc47a7c08ce54520fc6be7f07bb.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/85/ed/b485edc0da3c42605b2941f2c8bc74fa.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/e7/99/71e7997ec1c26816dd09e260b1cdf9a0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/4b/6f/8f4b6fbc59d5922bdd1825b9949fe1ce.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/08/c8/b408c887561c0e5c19a56cb050ae2cae.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/b1/bc/35b1bccd6aac6081824a01b6f18b14be.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/b3/af/1db3af7645a3b9f2f2b0133a668a32db.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/20/06/6b/20066bc20ed242239d77da9427f44270.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/94/8f/eb948faf93537b35c5696747f8b2ccac.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/95/67/8e95671754f781784125d2f0bd517216.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/2c/59/f42c59022f009276764589724310a0d2.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/90/f1/9790f107c8cd1c33e47ad0b91bffd655.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/52/35/0d/52350dd8024b1458197aae8b8b6c3bbc.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/26/5d/ff265d096f9f6afb90a9442eb8fcef5c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/08/f5/9c08f538e765ee4feff0ead7bcd221b2.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/f1/38/e6f1386e7bea4a5faa649397836c448f.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/4d/fd/0e4dfd3ab0b6cf2334bd6e5d089fb028.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/86/26/ca/8626cafd50295b74c76cfa0988dfeacc.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/60/52/b2/6052b2e19c7654ba3bc762a7f3223500.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/87/86/e48786b4d2b67397d2807a6960c57b6e.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/5e/c3/ac5ec39b8d106a073bfa73df808c4f27.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/1b/71/621b71fa0fe117bd544b50419c8d4adc.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/7c/cd/217ccde23190e1746879eeff9405dd3f.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/04/fe/e504fe42e8bf5ddd1ca43c37c30b2adc.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/f6/88/d5f688e8c84aa326db574365d9332c50.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/87/7f/98877f8598fe114e6be368e825931f6e.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/e9/e5/e5e9e5cccfd310fbad8208aeb57fc800.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/2d/0b/b22d0bc52b78779e3f4dacf2d88eebd6.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/88/76/6d8876d77b92a472922c71c28adccd2a.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/ed/00/96ed0099b5153ac2463d621d2f4f0a64.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/75/55/2c7555c01a437faaf7a83de6f5dab009.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/c2/c9/c2c2c9e9317127c2b2730f670b67d225.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/62/21/c8622157516f00b5b1600f26dcefe2a0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/5c/27/bd5c27ae734ba418178811f77f421db1.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/63/ef/f263ef9c175bf355884ceb0f7ae86850.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/59/10/6c59104daa1890f2dbd24f2236c86161.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/a0/d5/6ca0d5d36b36e956a6b3bce8cc07c765.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/7b/91/7b7b91f12ace3764b731682647a4d346.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/da/1c/e9da1c35a757ec83858b51e52ad12ecf.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/89/23/4a/89234a759e9faa34df9ce1c274146601.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/42/27/ce4227c800ba668ae5bf6f577d6999e6.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/73/55/cd7355692630ce0c965eaa14b5fc8cec.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/d3/cf/b4d3cfd5db3bd0cb84384c10a8381244.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/42/21/67/4221673e3f83cb88af09112c41a02f2b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ea/21/42/ea2142e072cf9c3def893d108ed34063.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/dd/d1/a5ddd187546237449ed1b64c5da5537c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/a1/78/eea1786e9b84e7c4f1fedcc50b7e72ae.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/4b/b7/8d4bb7b07b6a9e4058e4c34803f0a2b4.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/71/5f/e7715f7151d800bed8c86d5ee4e9ee97.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/de/a2/75dea21b3c86e1ed6b1055f6c9f2b517.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/7c/bd/7c7cbde667a93f1b889535de72f60701.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/4b/96/804b96ab151bc7d2b7d4f2d41d859d5d.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/49/16/ce49166cac20cc47e27b420b3963feb5.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/4e/6f/0f4e6f4f19917b106db9088f61b13222.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/8d/86/dc8d863ab95b633b91d7b1577682bc76.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/52/15/e6/5215e6d3f8bd2a7424b057721a5c28df.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/99/d3/72/99d372e684f7c2efd8ad304bbea66d43.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/78/ca/7a78cae1666c24f5b0f743b0004f90cc.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/09/44/fb/0944fbabfe8af3a0fb9eba35c8cc68ca.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/cb/8a/40cb8ac8076ba32feb31374ba5f3447d.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/38/b8/cf38b8dd5b438973de8bff480857e3b9.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Motocross Wallpaper",
+      "wallpaper_name": "Motocross Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Motocross",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/91/bd/dd91bdf850f78dfbd8a212cbf6a4b8ba.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
