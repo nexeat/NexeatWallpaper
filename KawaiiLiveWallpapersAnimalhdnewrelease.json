@@ -1,37 +1,1019 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "kawaiianimal"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/2628510024",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/1315428353",
+      "main_ads_natives": "ca-app-pub-3376721963677182/9002346684",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/2436938332",
+      "open_ads_admob": "ca-app-pub-3376721963677182/2552644551",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~2031961268",
-  "admob_banner_id": "ca-app-pub-3376721963677182/6410189972",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/8872701786",
-  "admob_native_id": "ca-app-pub-3376721963677182/6246538448",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/4933456774",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/6b/60/ee6b6006791935b120f9acd818a41655.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/6b/60/ee6b6006791935b120f9acd818a41655.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/01/32/a60132fe4e79dc371f4d894bb3d93686.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/ff/d7/bfffd7db9bb37be15a5238657a1471c1.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/f6/18/3df618d87c1c4533b62f58dbecdb1eb8.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/2f/2c/712f2c8b241cc18a5c1b20733cda1fae.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/84/1c/97841ceb74b066890f45234a22a6b7cb.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/26/58/36/26583614b4edc5053700a86d347c72e0.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/cc/19/adcc19e3b7f6b153c6f6936ae2a9c42d.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/ae/be/55aebe0af94b1472da7a2de40bd5d3bf.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/44/91/9e44918ca817b79598261152dace67f9.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/73/74/c7/7374c7111e3c927c510f1f0e353bb5d0.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/88/05/35880529b725b8edff67ba56cea85245.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/cc/fc/29ccfc931d98e2ef2ae74aa43f9329a0.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/09/2d/8d092d4158798476108a47182cc9d9ca.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/52/68/84/52688420dfcdfd899b2df57144e4f72f.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/57/02/5d5702d5d18fadeb10d3e8829b716b15.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/46/e4/8346e4455758acf02620251e07d64432.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/b4/c3/f0b4c3dbc4c803e90549bddd5bab5383.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/a1/3e/efa13ece2915e01a2007be039dae1e93.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/de/73/f6de739db1872864db88050d04b6c41f.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/98/71/2c9871159687d88e4e0720ed168dd55a.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/b7/66/30b76607a89a854908e6b75732e39910.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/e8/94/a2e8946e296ff317acab7d88da0ad42a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/dc/29/2bdc29ee29f07caf64d65d08ba9d0fa5.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/d8/60/21d860dabd3621e93170957279801ec5.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/ec/4a/12ec4af32fa78dd565103a0940520581.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/43/73/8b4373276bd9b486afec5d776ea3037c.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/eb/f2/30ebf26fe725b71ec136749925954cf2.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/e2/57/4ee257f7c06cee59155ba66c5872fbc9.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/4f/7e/fc4f7ef89fac9ad5c0582f5c3686bf6c.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/fb/75/b3fb75781ffc819166875fd2136048be.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/88/47/fd884754d1499d36a2cf14521e23a0cd.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/27/4c/9f274ca1d4ec397f6506800d3a6122d7.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/06/3d/38/063d381bc39c7c3df200ca76851c6b6c.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/e0/8a/aee08a8bc0a7033ab2dc39a5cd5ec32a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/a9/8d/62a98d05ac627c2dd332df86f208f8e6.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/ed/21/11ed21c9db597a548d205deff95ebcd2.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/5b/03/1c5b03fcd3e6ad9d1c46508cc282a3ad.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/74/70/0f74707cee565a30887a137f4bbe4922.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/39/79/94/397994a2d3c7836752a43ea5a1a40d20.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/14/78/511478ea296a20071c9de6f2710c21b9.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/13/b6/5113b638a22c915892becb9b5cf2d988.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/b6/80/65b680506f7ee559b37a30b6e9e8880d.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/cc/27/aacc2713855853f324771140953d48d0.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/d3/b5/e5d3b585b83c4dfa84c06a6a5e9ec94c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/0b/68/e70b68a1f21bc655fa5a591220394338.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/7e/d5/6e7ed59ba05009d75033de3a99dfddfb.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/c9/89/1cc98950894b057900d8e768d12659aa.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/dc/8c/75dc8cd65f56de97a1964d327d72c784.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/c0/e4/c8c0e49b1ac3123b59c7e3ff06e6cad7.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/42/8f/cc/428fccab197ab4e284f8f094581abe96.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/b7/df/18b7df6e6ca382f240602d38805bc1cd.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/65/e7/ec65e7041b4a2426ca17a0634ee7d051.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/04/8a/c4048abc5b78e7508c8ba82f2292da8e.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/01/4f/5e/014f5e52ce3cdad7b43da1c1961d1d70.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/e4/c2/78e4c2bcfc83529b74217822936b6247.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/de/60/aade608ea28e701fd689aa43ed2903dd.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/d1/2b/12d12b71c744c2a0c305ce40e61eed8a.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1b/f1/32/1bf1320102932e07f3bb2c013a104900.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/ff/eb/72ffeb75948e4e7be75d6767b0991011.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/ec/e0/d1ece01a9e79f4da256cc65ccd7c24e9.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/76/45/377645cb2045b123251731c4fa842af4.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/6d/06/cd6d06abf14b98565644b2cfa3e9afd7.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/45/06/ab45065e956c22480f0938dc4472613d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/ad/b8/8badb8b52e24f2b336bc7445e9cb3611.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ef/4c/b0/ef4cb01ee93b418592139c3ea67503a0.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/ae/36/a1ae369e176ddd63010a22d166ca02db.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/99/41/f2/9941f2983d406136cbc85b074f0ee615.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/a9/88/ada988436b7681b042c115e970136ffe.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/d4/9c/90d49c745ed421eca850316f5bd7ffcd.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/52/12/785212c2724a8bff4a301046f8b004f2.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/67/2c/af/672cafbd204c8b585f14658cd1467688.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/b7/f3/04b7f35a0dc8a5f8c35fed9f6620d8e7.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/dc/68/dedc680cb602c04eaa020273d466b327.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/02/b9/ee02b9a8a4319e51545fe662e7350878.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/4b/22/174b22a47fb5c25e6274974a022d5c6a.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/0d/ff/810dff4a87688dabb5fa989aa00cb0d8.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/d7/ec/2cd7ec28cf36387235f7c3e9d7d88e6b.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/61/29/f3/6129f304fe3aece29ea9962872f8a3cf.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/3c/cb/353ccbd2b2617af6823f6f3d81034fad.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/c8/3b/4cc83bf970bb8ad8a6615007386ce5a9.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/51/a7/0d51a7dacf9b26cfb8210d735d369b5f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a8/5a/94/a85a9403687a1a0447e945b5af6b3c0b.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/83/97/46839732e3b00db4ff51428242c91414.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/af/cc/05afcc50f53ca63d3343f83b63cd67ef.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/82/0b/ac820bf7a39149490ed302dc1e787c27.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/e4/b2/2ee4b2a4a5752ebd9337032ebe76500c.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/9f/7e/519f7eb03f00da2695f6d7b4ed2186b5.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/23/a0/e223a0ad810a44481af2f68f525c00b2.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b5/72/6c/b5726c6895ee6bc5707e104f75908067.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/cd/25/b2cd25341ff4789156972da0558b5fc2.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/64/56/b8/6456b882f2ba1a501b5f1ab4ad3802ac.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/20/ca/9d/20ca9d995f437459d8973b5643131a71.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/ea/44/7dea442944988d04d8dfe1649d695cfb.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/3b/c6/c23bc6e3e413906df36ba89bbdc7771b.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/86/13/3a8613ba494b9d4bcad6cd965d6e4f46.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/d1/62/40d16269ea5613b0c32a054c095dfea0.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/58/a2/a2/58a2a2fd13d796e0e6a7d958c116f684.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/b6/5f/98b65f0d669e854697f665fcde6bfadf.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/17/0d/8d170d0cf114189e569c2657eaa60ec8.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/83/6e/b3836e6315c36b055c7660d6910fdb01.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/33/bb/e633bbac33c4c175dac793e086f4c975.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/27/54/a3/2754a36db0e007e905bf76fc1ad401b6.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/63/08/a26308793ddb884b2edc073187e98691.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Kawaii Animal Wallpaper",
+      "wallpaper_name": "Kawaii Animal Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Kawaii Animal",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/e9/45/c9e94597b6ba90f536adefc8760dcc05.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
