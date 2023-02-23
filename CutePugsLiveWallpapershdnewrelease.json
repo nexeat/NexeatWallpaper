@@ -1,37 +1,1478 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "cutepugs"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/3648295268",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/1022131921",
+      "main_ads_natives": "ca-app-pub-3376721963677182/8709050257",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/7395968582",
+      "open_ads_admob": "ca-app-pub-3376721963677182/6650336504",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~4961376936",
-  "admob_banner_id": "ca-app-pub-3376721963677182/3648295268",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/1022131921",
-  "admob_native_id": "ca-app-pub-3376721963677182/8709050257",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/7395968582",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/6a/aa/8c6aaa9e01b28cbc7fb03c913f7b0bd0.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/6a/aa/8c6aaa9e01b28cbc7fb03c913f7b0bd0.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/60/ab/98/60ab98b67667c00dcaae13e90fbe19e2.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/bc/0f/5ebc0f3993a8f9c83e64e6940fbb0390.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/0e/6b/900e6bd8ac38b1454c8316e793a1a7fb.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/86/48/2586480ba318b4437f6944f24705c30c.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b0/d1/c6/b0d1c696827dc4ef45d01de93c1ff0ce.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/9c/47/8d9c47fe5a3e64db797cfb96666563de.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/bc/21/9ebc21ab33507cf57cda76df5a84c333.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/5f/61/805f6167da1e0c42e06c1af08426210f.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/a6/8f/10a68f3aa213027a252c85fa615e30a2.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/fc/d3/8bfcd32bce95ebc85e108a4263d26451.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/55/7c/e9557c74cf247962c4140cb4b01cf52b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/50/67/fa5067818d6950791bb6836e36c70986.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/92/af/6e92afa4c0a893fdf349077e16de4679.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a0/73/a4/a073a4e0ef21f889ff105f19aa815f52.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/06/9d/a2/069da216be830786dfdecf307f74ed10.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/cc/34/0fcc34ad57eb491ff1fdfb44ebda45b2.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/43/1f/62/431f629dc31d69950ee53ad3ba0980fb.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/49/ea/2949eaffa6c1cd8441282f46415ec1f2.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/27/8c/62/278c621c0cdc196c581689c53ca7e053.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/29/91/6f/29916f89035ca1b5cc8ea45fe4818182.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/0a/2c/710a2ccc9bd087b691eeae7a8445d2b1.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/af/55/3caf552c99190288856368f44900dd50.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/36/41/16364135860c2839a1e88d617d2611bb.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/ad/b8/0eadb8e0daea6fffdbd9f7ed9864ba5d.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/6f/c0/e16fc017541763b8aecf4567a8bda91b.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/74/53/987453b9f6fbf4a679dcd868677c4e6c.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/72/f3/0572f3e773cb322537f21c3410bc1edd.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/17/9f/c1179f5dba3fefd9cfbfcdfa15525f5f.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/97/57/30975794ffe660eb2d30b66d6958288b.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/84/f5/df84f55b3e3278374da3788d4c2c0134.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/1b/a6/041ba6f7e10c49de76981e7301baac58.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/06/b9/bf06b929c055443aba9c54c0e7dae230.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/13/a2/7c/13a27c29ec18d15e781dc1c983863e6b.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4f/02/cc/4f02ccd0af753d2bdee8f28373bd872c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/12/08/ab1208e0f7c8c7d0d9900f7f5e56ef06.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/f7/b3/0ef7b327c6bfebdb6c1f0ded4f192c36.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/a6/17/77a617d108fd8fcf706f248a0d297926.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7f/8f/93/7f8f93d024dde071367cee945ebf8e34.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/74/ec/8474ec2c40b9f24751746cf733c97230.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5b/e6/42/5be642d021409caae8ae7ef4a9e1cecb.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/5e/22/cc5e2270f9e7b82559eaff6e562ab16c.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f5/14/5e/f5145e519d54cb124ae7e26915f2d91c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/7c/b9/e57cb9b71b35ee39d501679d1ef67ad7.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/39/8f/c2398f19c4526869c7032d6590bda929.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/7a/ed/2a7aed9fef181643002ad7497e9064b3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/21/f5/3d/21f53d9485dc854fc8e5c96e60a6525c.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/8d/ed/318ded3120a944cdc9abffed65b958a1.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/6e/7e/e86e7efc47afb6d39df94f4d81d91c0b.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/cb/e9/3ecbe92debbeac4c15bc9831e0b4c8b3.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/23/89/38/238938b8aab1f9409d21fd19571d7208.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/59/62/655962df6ede9618976326831d9ebcbd.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/14/a2/fc14a2e64051e1b6fd82f506ff9e3ed9.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/4f/d0/6b4fd0815b557260c992a9840c746b1a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/90/cf/c4/90cfc4539a1d9b01eaba4575d6f60751.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8a/13/10/8a1310e06d6c37ed928de9d10b0e55f9.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/42/15/1042151ee5730f81d7c3dcea08ca1533.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/cc/54/6bcc54e33b2f7d4fbfe1780db572465e.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/63/4a/e9634a2c5aa07e8adab270cdc0c2b23e.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/b0/f9/3cb0f9967050dc151633d882d5841ba5.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/f1/95/a1f1954597e7fdc1622a1a2a05873e12.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/09/39/e0093939bd9cd7db5d4947742adb47dc.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/82/60/928260eca0a06bfbd71777ad1ed4c549.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/19/b0/e7/19b0e7ea9954fba721fab99d091f396b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/79/ab/4679ab2caba24bdca32031ffd0154fbb.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/10/77/c0/1077c0064eda12b29de90e25862b1028.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/30/0d/c5300d06280ffc4d4288894c82d7992c.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/d9/ab/74d9ab3810d90c32cbbc7371b97f6601.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/15/3e/96153e92256efdde7a19daea1e4f6727.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/6a/9d/fe6a9d57b63f77ecf2460a69be44d623.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/f4/a1/40f4a1e7f7243d70c769e7d693600562.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/10/df/dc10dffd2329bedbe366f675784aa73c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/f1/1a/8bf11a902d372f5bf28bb65e5d9f20b8.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/33/52/d933523aa3f208102f24148b19a03113.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/31/ad/4e31ad220348612e8d23f66fa7fc771e.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/2f/92/692f92d386ca7048a12fd60dc21e7a70.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/37/b4/3d/37b43db6a01e8af0fe11ada968763d6b.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/9b/95/bd9b95f6169a6b827a2a239a2697636c.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/55/1b/6d551b17080038ef64d2278966f78da3.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/c7/f0/cdc7f0cc0347a9ff1c4ac60ea4d5b0c3.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/3a/2e/243a2ec9aa1a9398bf3d43215678c292.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/9c/bc/f09cbc16061e4173bfd1c67dd09e510f.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/3e/b9/ee3eb9f1981bd10035a9437230171447.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/736x/c7/6d/6e/c76d6e2710a346daf3b52ae161ed6183.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/26/ef/ff26ef04588a297211ef5cfc953f25e0.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/97/f4/3497f4e9f88fa3692d4bd756d1987d53.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/35/7d/0b357d871dde0094b594619f0c194d9d.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/b4/fa/d0b4fac6f84fb9aaf796441daed6e6b5.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/fb/5f/16fb5f2f9b15e881af8557a8c1fcbbc1.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b5/48/87/b54887cc844394c4c8261223ab06eca5.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/b9/21/b4b9211464acd1da4049644bfca55a45.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/66/0c/af/660caf75bc0bbd608d20119688d95aea.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/1b/4c/cf1b4c9c7e36ce1644094e13265b0ef2.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/1e/59/4d1e59b1dd1b60b4923db5c1de9b9f0f.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/9e/26/f09e26725d533b834aeff57e7f739b2a.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/98/73/c39873301a8b6f2de68b56affea429ca.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/aa/64/7baa64ca69ee4e552a56a2b5aaef3a60.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/b9/b3/7cb9b3f1dffc9d7581ed56bfd99bbaa2.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/e5/8d/fae58df9411a4dff82cfcf586b50f0bf.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/df/f8/91dff83c9f3812c85c8fdf0f77043fe7.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/9c/9b/7b9c9bb8eaafc721cfbd0e9e58ec4239.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a6/4e/fa/a64efa3b6985dec8430f335a22040618.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/58/d1/80/58d180f3c6496dbaad078384d1653f61.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/5f/19/535f19b8cc48022079601dc205880931.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/0b/b9/e60bb971d3be86d6fbcfe2fbfe73b109.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/60/5d/f8/605df8b24718741f065011b357004a39.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/ef/28/dbef2873c2b32c696877ed33c4dc5c5d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/bd/e0/4abde0616f7a117eb77a7fa72feb345c.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/69/42/b669421ec980b3001fea2f5b4c4627e3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/94/24/c69424b2e376f9e697ecb5e44575bcfc.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/6f/23/aa6f23c799b4c111040735b62f4c7f08.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/05/54/a4/0554a47190fd115bb837c1af4af8abbb.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/71/1a/b4711a777d9930d09815eb2696b5e647.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/89/32/958932ef2c55d57610cc69ba9f8d799c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/e5/4b/0ee54bb719e38992f73a4f95f0817d1a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/af/74/3c/af743c0826851170dfec70fd96e5e642.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/06/3d/19/063d19779edc6f2559650ee0d1b7e909.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/cc/ca/c2ccca86c6e5e665d978bfe042746fff.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/c4/62/b4c462b3ddf6fba113f636ad2d0b6ca9.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/c9/c2/28c9c275f150a84ba77b43a545fc39c0.jpg"
+    },
+    {
+      "id": "943785665636379210",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper943785665636379210",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/3a/32/f33a3270fb606509fea8620a7d997a98.jpg"
+    },
+    {
+      "id": "1056797868791042381",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper1056797868791042381",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/57/59/ba/5759baa393f280926c21754a0cdb0b54.jpg"
+    },
+    {
+      "id": "48273027249542210",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper48273027249542210",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/dd/bc/2cddbc199ddb4d63879f776b3e080acb.jpg"
+    },
+    {
+      "id": "3940718417209888",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper3940718417209888",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/a7/6b/97a76b66995d4abfed388aacdf1e4c96.jpg"
+    },
+    {
+      "id": "425168021084759006",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper425168021084759006",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/44/90/9d/44909d17e456a103eb385dfe93651c73.jpg"
+    },
+    {
+      "id": "731060952026444941",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper731060952026444941",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/a4/ec/80a4ec4f83205bbf2eb561765864213e.jpg"
+    },
+    {
+      "id": "611715561905282987",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper611715561905282987",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/28/b5/7728b57e69709bdfe8bd5e989ffd7fd4.jpg"
+    },
+    {
+      "id": "762163936957845179",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957845179",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/fe/55/68fe553bafc0755e60a87deb363d01a9.jpg"
+    },
+    {
+      "id": "762163936957544557",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957544557",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/66/a0/0e/66a00e5b991a99e6a9e14fa02a6901f9.jpg"
+    },
+    {
+      "id": "762163936957544550",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957544550",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/ac/a9/93aca9483d8f23672c79ad178e520a44.jpg"
+    },
+    {
+      "id": "762163936957497726",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957497726",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/8e/cf/b68ecf809619f75bc24c88254d2b1bef.jpg"
+    },
+    {
+      "id": "762163936957432366",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957432366",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bf/16/d6/bf16d6276ddcf9f20e7fc23647960534.jpg"
+    },
+    {
+      "id": "762163936957390277",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957390277",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/f7/22/4af722efeaa8155d62236448474b4356.jpg"
+    },
+    {
+      "id": "762163936957370733",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957370733",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/d8/09/2cd809cebcf81ee379ae9abdf9218469.jpg"
+    },
+    {
+      "id": "762163936957354584",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957354584",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/27/d3/7827d3658a2c6202ab3e1829581c293c.jpg"
+    },
+    {
+      "id": "762163936957354561",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936957354561",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/32/85/c532858c9f063e92673095b8c7687773.jpg"
+    },
+    {
+      "id": "762163936956730517",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936956730517",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/77/42/387742385f1c479d92dffd2a5aaca3af.jpg"
+    },
+    {
+      "id": "762163936956664522",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936956664522",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/4e/33/594e335823159c164b00861848316904.jpg"
+    },
+    {
+      "id": "762163936955911041",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955911041",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/c7/19/54c7197fca9931e24f1eca2a222e4f4c.jpg"
+    },
+    {
+      "id": "762163936955911013",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955911013",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/27/a9/ab27a94ee95cca964e77d94e71c25d69.jpg"
+    },
+    {
+      "id": "762163936955640601",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955640601",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a9/d1/be/a9d1beea5a6d04037c46fdd80ab077f9.jpg"
+    },
+    {
+      "id": "762163936955594026",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955594026",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/f4/0f/b8f40fb338deb8e463313906f57221f7.jpg"
+    },
+    {
+      "id": "762163936955567696",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955567696",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/8e/ea/0b8eea42928227fa320b9091e9bd1dc1.jpg"
+    },
+    {
+      "id": "762163936955549676",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955549676",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/41/55/f7/4155f7c3fb92b6492bf9de86388f2ae1.jpg"
+    },
+    {
+      "id": "762163936955395541",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955395541",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/94/4a/f9/944af9e1d6912834d90b43b924905729.jpg"
+    },
+    {
+      "id": "762163936955381591",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955381591",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/originals/bd/51/8f/bd518fa6290e5d03833a502296fa85f3.jpg"
+    },
+    {
+      "id": "762163936955240129",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955240129",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/e6/bc/f1e6bc2e550438c0a707fc9d38a04860.jpg"
+    },
+    {
+      "id": "762163936955042878",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955042878",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/bd/3d/9cbd3d49055194453aa3e4f32aa92e65.jpg"
+    },
+    {
+      "id": "762163936955042867",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936955042867",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/35/6c/d6356c4453e35f6cf9e1ad17c23b9fba.jpg"
+    },
+    {
+      "id": "762163936954975867",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936954975867",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/88/32/2f883266241a925014a2ea01a2e6a86d.jpg"
+    },
+    {
+      "id": "762163936954962297",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936954962297",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/69/62/046962e51a552238c509fad005255b43.jpg"
+    },
+    {
+      "id": "762163936954961611",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper762163936954961611",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6d/25/af/6d25af959518821f407c4ec3c084dd4f.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f4/24/d8/f424d88a7f19974abd5ba59bba64864b.jpg"
+    },
+    {
+      "id": "753086368955302585",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper753086368955302585",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/1e/1b/db1e1b39690cbf4029c9f5bdbc03a2c6.jpg"
+    },
+    {
+      "id": "1829656091530868",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper1829656091530868",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/23/3f/f3233f05eb69f28d57fa233945d86def.jpg"
+    },
+    {
+      "id": "1121326007201543357",
+      "name_category": "Cute Pugs Wallpaper",
+      "wallpaper_name": "Cute Pugs Wallpaper1121326007201543357",
+      "wallpaper_detail": "This is Exclusive wallpaper Cute Pugs",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/6e/28/126e2859bfdc0a543b5fc2aaa2185c41.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
