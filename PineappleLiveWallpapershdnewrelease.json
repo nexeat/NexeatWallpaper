@@ -1,37 +1,983 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "pineapple"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/5316600159",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/2690436810",
+      "main_ads_natives": "ca-app-pub-3376721963677182/2793544448",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/9064273476",
+      "open_ads_admob": "ca-app-pub-3376721963677182/2401736782",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~7942763492",
-  "admob_banner_id": "ca-app-pub-3376721963677182/5316600159",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/2690436810",
-  "admob_native_id": "ca-app-pub-3376721963677182/2793544448",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/9064273476",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/6b/49/856b49401bc1a735b50f28e7b6fbdf69.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/9f/22/e19f2242ca4bab933e37e0ce7c6795fe.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/7c/92/d57c92dfd601a56ab45bd3853058708a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/76/0e/5b/760e5be3253ba6731d69a4e510f92d07.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/d5/be/c8d5be9e81de9c83cb3b653647f15f4a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/b0/ba/77b0ba9ca1eb1f5400418a3520dad518.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/8f/3c/7a8f3c69bf555bfdb8ded182eed18a5d.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/30/b8/6c30b8496a8f033fdccda8c6b517462c.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/86/04/34860401714dd3329cdc2605179c84c3.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/e4/e5/83e4e56bb2875aa3fb10ec9b3997f61c.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/b1/e0/cab1e01ddfe04fe259ef2e79a009e63a.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/91/ae/6c/91ae6cfe91a97d50e3aa6d411b0cedf4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/79/64/9679647c24dfe54be6d741597f617493.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/dd/97/51dd97facfaa2fd8a8c734bead965efa.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cc/f2/e4/ccf2e4aec406041cdd57201ad09da778.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/42/cc/37/42cc373c493d761dc284bd1ff23c5c5b.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/c7/f5/7bc7f5542f2893479b9ab2006e293f9d.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/df/9d/acdf9da9330e07758656d3449a3dea2c.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/c3/e2/b4c3e2ac9b4a563bd4a1e2834f772d4c.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/af/46/38/af46386eaed7f62b9fbac4ef54db42dd.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9f/81/b9/9f81b9d73367d9380aa881c09dea586e.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/a4/f4/40a4f4f69ddd3639b3055041bce13133.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/19/5e/d0195e58d4d42c376e3fcb2371bb0a65.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/a2/3e/c6a23eb55919c3419d7db1c745be6a8b.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3c/02/19/3c02192f8ba6a90b5f0c406fb73ec88f.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/3e/bd/c53ebd35780df28a54b1d0b0d836ec5b.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/e3/41/b4e341235dab808c17b2916105d41ac0.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/67/2d/11672dd1117400c878f5be566c83fc60.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/33/1e/8f331ec439dea52208b211d8270b4d1d.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/d5/3e/81d53e5dfbd3203a741de4767fcab350.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/15/3f/ed/153fed9a76c359a82f714210966c0838.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/43/a0/d343a04f790c2cb60a3c4bd6676b2074.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/4e/5d/8e4e5dc7a16e19c128e348c2b3447bcf.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/15/8d/ad158d6b6d27f5d87c9598697fc397db.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/63/31/3863318bcfda9bd8a7116f8ede9a12b4.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/72/54/467254c2f3014fd08cddc8acfaf827ce.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8b/c0/4e/8bc04ea47ba64cdf19f49684bf209969.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/a6/db/59a6dbdab569c1699688687f7bb4825c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/ec/90/34ec900a00347a085c9975559246c5cd.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/3f/61/4c3f61e1c6a2e9cdd9572ebce380405c.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/1e/cd/c81ecdbc08a27defeaca51eec2a575bc.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/42/29/b142299886b533cd91c64524d60a153a.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/a3/57/7aa357a0a02fd4f4e3b028268c2f42c1.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/f8/09/6cf809e7cbd79d164bd7c0a7c6b8c376.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/79/71/b679712023f649b7f8176a2772b99c63.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/13/1a/8c/131a8c8e63e3c3284e859afcbd9dc0f3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/39/21/b0/3921b0c3292c97a27a48ee0cd45869d7.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/36/1f/2d/361f2d533ab9935e0b6c7366acc64741.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/56/a8/ea/56a8ea3d9f8d6813a86de7ab50ef1c76.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/7a/3f/6f7a3fc7bce7f5c03796022cd9b08b99.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/14/4d/cb/144dcbae1d023d6be432cf50a0319ff9.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/3c/8c/2d3c8c0743440885cd7bf416b1572ac0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/12/21/c012217bfcd6a256085d123afce95905.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/40/0d/2d/400d2da5f97bb7cee4cf7e0a2a0e73a2.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/c3/a5/2bc3a5157065c09e78611d7681fed7c5.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/d7/5d/acd75d90981dd6989c2d1679af7ab120.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/76/3f/d6/763fd66c41b07ec937bc0de19b83cd7d.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/eb/23/1deb23ddaf5c117301e67d8c7ff993c9.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/9c/52/fe9c5284a2ed0a7640711d4ac42dc4d0.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/02/d3/2502d339478e79df7f2b28968f818f41.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/c4/47/b3c447668ed8c6ffdce76c9af6f5df49.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/3f/0a/de3f0a5e7f9e479adccb5b4e395c439a.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/91/55/519155bf03282feab970eef1d86fe37c.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/55/6a/8f556a344b0b162a97a0eb844623066b.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/d5/76/d9d57693f1cf9144d6f60ae6aa469a55.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/be/fc/fdbefc075bbe9d86b8d93c98fbb17eab.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/24/aa/0e/24aa0ee1f93e174e63cce375d2d70705.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/68/b2/d368b2a1ab3062a142a22626625fd786.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/a6/92/c7a692baa341162768ba1f3cafd819b4.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/19/aa/28/19aa28d8ab94c24b1d4c14912fd08e81.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/21/fd/3821fdb547aa6099265754d418f3336d.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ba/6d/44/ba6d441c7585252db2e092a494f494ee.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/f1/89/b1f189b863a3f793b1b22741c7581010.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/c5/42/8ec5425bba228c18eaabf0b4b7797390.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/9e/44/599e441c0286507ae2aa9e73649d3a04.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/56/80/6e568055d4350f3e0e3ddbb7d10cbcb6.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/cb/17/5ecb17e3c1f194989e8e43568c64aad3.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/75/95/df7595c676deaa76e591b9c2d81f95ac.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/cb/31/02cb312447146e4aa901c26022171321.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/02/b4/f2/02b4f2a9f8d5515399e8f5876d49d446.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/14/13/90/1413903147baf5dbbf2c122a6a866940.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/ac/48/8dac48b398809c65cfa94f7b20b6912a.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/70/2e/fc702e52a3d3ad99c9eefb21de835f5a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/27/b4/6e/27b46e9247ebfc8e03f0013858c1cc39.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/7f/02/657f021efe15d7f6d9eec103f76967d7.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/71/fc/9371fc8f10487c5054ee61269a49eaff.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/bc/8a/eebc8ad899713e8bc91d1b53f3a42ba8.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/95/57/29/9557298a2abfddd4d09ff2b2a0098618.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/ce/30/edce30d6bbea69681fab2a5a720110ae.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/58/25/c55825e8d4d21364ed9d95bb0a5c5a70.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/ec/cd/e6eccdfa690371999e7d15c1b5d4a844.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/02/7b/cd027bc33646ec0a7a02d9cf7b0dd6e9.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/c7/f0/71c7f036b07960a724769de7993f1d9a.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/1d/47/f91d4737134e382a66b7872d033c2c9a.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c8/e1/32/c8e13272dc00b72abb3b52fde155376e.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0d/b9/98/0db998bc334ea5b703f219483075baa8.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/a2/7b/9ca27b06463ecfaa8dbbf2a50755083f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/6d/ce/806dce9c8ffcad36bd52983a0219036c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/b2/e9/6ab2e9512408b87f390f1abd0f2dc7d9.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/f9/67/2bf9677e2ce947742537e5c953404f60.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Pineapple Wallpaper",
+      "wallpaper_name": "Pineapple Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Pineapple",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a7/1e/01/a71e010583cbcbca28d4f9671d8da685.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
