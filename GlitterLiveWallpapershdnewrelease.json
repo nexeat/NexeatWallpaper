@@ -1,37 +1,911 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "glitter"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/2718356970",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/9092193635",
+      "main_ads_natives": "ca-app-pub-3376721963677182/5136636757",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/2526785287",
+      "open_ads_admob": "ca-app-pub-3376721963677182/5184361532",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~5344520319",
-  "admob_banner_id": "ca-app-pub-3376721963677182/2718356970",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/9092193635",
-  "admob_native_id": "ca-app-pub-3376721963677182/5136636757",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/2526785287",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/85/6b/49/856b49401bc1a735b50f28e7b6fbdf69.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/6b/49/856b49401bc1a735b50f28e7b6fbdf69.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/6d/2b/846d2bab9ab6838bf976129e372e68ab.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/0d/30/c90d3069acca9a69dbb53396c8fb59fe.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/57/f7/2d57f71f9b069579fd80470a750f3953.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/78/5e/81/785e81de03eca205cc876415c33561bd.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/32/ab/50/32ab50126a2e72fc42959432a5a39332.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/ab/0b/77ab0b50d4a22622320673c831011157.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cf/a9/6f/cfa96f55aa82f16cf7d2c3157f114edc.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/be/00/8fbe00959f20e59bafeb78b5b99cb953.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/52/8c/8c528c47529b1894e81ff5a575260778.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/43/2a/41/432a4145f0f9a6ec5a83fa71a82054df.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e2/1a/a0/e21aa0b2841e19bc7e09deec26d10d93.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/8c/be/0e8cbe63ba020e8e74932f951a6eac67.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/18/a9/86/18a986dd567d054cd7e03494ef0a938e.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a1/ef/58/a1ef5830c6d91b69857ef86f2edc5a11.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/87/53/c08753ff521cfb27adcde2010954ff02.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/36/10/12/3610127d96e751be78664adc970bc310.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/4e/10/754e1095c3e7aaa965936c66aaa498fb.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/d4/b1/c2d4b14bcb5664e8e38a45244f740ea2.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/66/cf/a7/66cfa7c3681fd399cae229f3eb332da5.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/81/b2/9681b2c390f9c9382d0960ecb6b5f215.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/7e/e0/857ee007083a856c14dbb66ccc86648b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/41/05/d7/4105d745fd019fd7429df83385771b7a.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/57/47/ad/5747ada661a7fa82cd5aa6f5ce190c20.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/fd/7a/e9fd7a36d4f3f48561ec31dcd1831583.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/26/99/70/269970eadbc95493333e55474e58dab2.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6a/cb/0f/6acb0fcce93e670ab9a610a9e54db268.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/f7/7d/72f77dc672ddb15c164e2dee711e13e8.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/94/7c/12947cdb1743aa83c0b01d998d7a167a.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7b/90/9f/7b909f82cfd59033cae8483a7c6dcbf8.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/16/8e/32/168e32dfc3fe2821e525b270243f03b7.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/9f/c9/b69fc902b5d1a8e7067f3ca6bc8c3508.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/15/02/43/150243dc40df413350ac42683c7c4c98.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/9c/ca/d79ccafd74656cb9f1e5374ddcd14b80.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/b3/c6/aab3c61fc7b4caa9e9267f064596f9bc.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/a7/fa/b7a7fa6fe419b187b3a3c8bb92af8659.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/bc/23/dcbc23153d5aeea8220df70c676f0eb7.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/b5/a9/c3b5a90561dfbdaffe22642f1921feea.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/21/e6/3b21e6f2d8e53c0d95950908c2faf016.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/7e/97/c27e97f4f4144296420542bf1b5e4bb2.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/e3/16/38e316df96d941ffdb9ed2d551e8262a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/36/58/70/3658701aca9988ea6a84308ed14cd6d5.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/00/57/8a/00578a4b07c7895028a97c7af6d25e68.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/7c/a7/4e7ca73c8d349f2e2a2c52f6fe3b32f4.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/08/9b/15/089b153a83fc356cf05b6a87560ac2ab.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/c0/bc/d5c0bce44addd77c0d6dd2e867b97480.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/5c/ca/4c5ccaad8ceb5704c2f78f0219d06f9a.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/63/ad/2e63adce93d3e8a120fa62a89cedcc60.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/07/37/8f0737b79fbcf3808688b9356b8be84b.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/74/58/d17458ed59f4fe03c40a5b1634114324.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4b/d9/48/4bd948df07f35bdf0d4707f6f84759fe.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/41/75/a9/4175a9f2d794b9e80a5ff92ba18b9f6a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3e/12/b8/3e12b8eb6ab959d667b843e32f4f0734.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/af/fe/71/affe7166a50c13216aa5c89c0a88dc67.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bb/a0/37/bba0373acdbc6c64b483ea74214f6504.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/c8/05/5ec8052227c586b59d936f0bab012d0e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/74/a3/8c74a31b80e9c76a4fffeb75d7e5fdb0.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/736x/90/4c/02/904c027c93d34004eee0e354b3cc5771.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c3/4e/3e/c34e3e646d15af9bec97b7371333eb8f.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/2e/dd/552eddbf9ed7014f2fb47528181df1f5.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/46/bd/59/46bd596d38453eaff6f15a95a547e39a.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/47/f4/6e/47f46ed1283b64ff7faef8ad20ef598d.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8f/ed/58/8fed58b1c5a9a31ebd2e37a84b6a6a64.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/1b/8b/fc1b8bc757548eecbb0c13526fdd2038.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/18/b6/7118b6f9072de1b6d335b1ec6fd21200.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/18/56/d218566046a6faf1ba9154b9e7c5b74f.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/21/56/5121561dd2c9c2f15e78b60a7f5bea16.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/43/ca/c7/43cac74198e6ee23516ebb8d62bcafdc.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/cf/9b/fccf9bf2861c0ff95ff8a0d7f2efc23a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/46/5f/68465fefc49217ab913c00f7e7d456f6.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/21/a6/5321a69bad168bdee3f5c39ac10745e4.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/12/78/63127807260a5e98bf2a43c40cae981e.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/a1/8f/eda18f4b4ec041085b042c19a7a94451.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4e/e8/ea/4ee8ea71fcee42994cceb63f56ba5c3f.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/de/3d/ae/de3dae56ff5e9168f904bf94cc96225d.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/de/94/1dde9444e5f32e79677a253eb7c9ba9b.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/7e/b2/ca7eb235d1309fe194dd7c1e162a7c0a.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c7/09/60/c709605cbe6690bffb080f45d3257c1e.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/db/a9/c0dba9a9a8a2f6553279b5e890c1e59b.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bc/6f/00/bc6f009c6b075b2362c1f6859d0423d7.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/1e/3f/f91e3f6aa0e792149c5d7c182765ef7d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/ec/b2/85ecb22605d42538ba947c08c5d744bc.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/d0/ac/c0d0ac1d3ac31f3f70c4c6683eea019c.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ee/db/01/eedb01bb77932a668d2305869c953498.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/89/3c/2e893c1539b921a8ad4914fa9cf1386c.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/89/ab/db89abf3a12ec7ab24e447cfbe36153d.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/91/df/4a91df066caf4d795105b13142a5519e.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/b1/b9/b8b1b9b08d29cf5f7237bb55f61efd4e.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/07/2a/62072aebd8960372a7fdae5786f1fd78.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/95/9e/8c959e18d44c7d53473a93159c17a10e.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/d2/92/1ed2923a1202071ed2bf4834e23ce429.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/87/89/26/8789262310c7756faefef0b03b1cc166.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Glitter Wallpaper",
+      "wallpaper_name": "Glitter Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Glitter",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dc/6f/d0/dc6fd0c4b13d9d1f2ae2e18808938b0a.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
