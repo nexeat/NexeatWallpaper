@@ -1,37 +1,1028 @@
 {
-  "username": "parallaxwallaper",
-  "album": [
-    "cuteowl"
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3376721963677182/3045660031",
+      "main_ads_intertitial": "ca-app-pub-3376721963677182/7667431322",
+      "main_ads_natives": "ca-app-pub-3376721963677182/6354349654",
+      "main_ads_rewards": "ca-app-pub-3376721963677182/5041267982",
+      "open_ads_admob": "ca-app-pub-3376721963677182/1862680734",
+      "backup_ads_natives": "",
+      "backup_ads_rewards": "",
+      "backup_ads_banner": "db4d5e8718b97d78",
+      "backup_ads_intertitial": "518cd97722c60b52",
+      "open_ads_alien": "",
+      "switch_open_ads": "1",
+      "switch_banner_natives_ads": "1",
+      "on_off_native_listview": "1",
+      "interval_intertitial": 5,
+      "initialize_sdk": "107355779",
+      "initialize_sdk_backup_ads": "",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_guide_wall": "3"
+    }
   ],
-  "init_jumlah_photo": 1000,
-  "pub_id": "pub-3376721963677182",
-  "app_id": "ca-app-pub-3376721963677182~6984905049",
-  "admob_banner_id": "ca-app-pub-3376721963677182/3045660031",
-  "admob_interstitial_id": "ca-app-pub-3376721963677182/7667431322",
-  "admob_native_id": "ca-app-pub-3376721963677182/6354349654",
-  "admob_rewared_id": "ca-app-pub-3376721963677182/5041267982",
-
-  "admob_hpk_1": "crypto",
-  "admob_hpk_2": "fashion",
-  "admob_hpk_3": "plastic surgery",
-  "admob_hpk_4": "mobile",
-  "admob_hpk_5": "insurance",
-
-  "fan_banner_id": "214651780374486_214652663707731",
-  "fan_interstitial_id": "214651780374486_214652960374368",
-  "fan_native_id": "214651780374486_214652663707731",
-
-  "mopub_banner_id": "5dae0c0f314b4cadb43ec5aa3c2e3ed0",
-  "mopub_interstitial_id": "f1374fa32a264f66b72b21fa0657274b",
-  "mopub_native_id": "5e4b60da282f4d2ea26ce313f4d72ef3",
-
-  "interstitial_inverval": 3,
-  "rewarded_photo_inverval": 3,
-
-  "primary_ads": "ADMOB",
-  "list_ads": [
-    "ADMOB",
-    "MOPUB",
-    "FAN"
+  "Categories": [
+    {
+      "name_category": "Owl Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/85/6b/49/856b49401bc1a735b50f28e7b6fbdf69.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": "714242822171467322",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/6b/49/856b49401bc1a735b50f28e7b6fbdf69.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/72/5a/d8725ad9023244f0f028d4e12669aff7.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/82/a2/aa/82a2aa9a9f044a69280d89ff79eff9aa.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/28/ed/ff28ed9e9911674e89c4761cf4ba1b43.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/49/5f/c6495f0327de087600d272147fc86f70.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/13/06/39/1306399e27278d228a912d3e5b32041a.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/46/db/b646dbf35425998b4706f4348503dffa.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/75/37/e775370a778765fb8bf0223c3577a646.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/53/ba/fa53ba67c766b2f8a4965ae3694592b4.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/76/d4/c276d4cbf2dd2757f971fd0a02d15528.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/4f/d8/b84fd8ce74ff84c30eff6666e791db1c.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/74/e0/3174e0ddefdd9d8fbae531c3bb3eaa5c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/c9/ff/3ac9ff8e014d5ba4a3fba1a896a3c40e.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/76/dc/33/76dc33e43bbed09c6193f536c5282a6c.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/b2/64/68b2648713fd751a113a0793cb057164.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/cd/25/11/cd25115367cfa3934438490f17c0e61c.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/7b/05/037b05820a8a7e5957731353a78e63d4.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/bf/fe/c5bffeca0a8ffb823335c75be73cb457.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/48/73/c7/4873c7ae053ad6a4f5cfadece005e7f9.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/96/19/39/961939ab3515aed6a71c3b16d67e49ee.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/86/e7/bd/86e7bd4029a79c7582f58560d806423b.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7f/03/ea/7f03eaa408e50e57d46a1de168e6a0bc.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/61/64/76/6164763490daf63ba18de89b34ef1b08.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/60/a6/35/60a6353fdcc6b64cb22f70c0628b2816.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1d/b7/60/1db7602b50179f6401b46a8f30e21315.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4d/a2/66/4da26665e3b993baed64233ecb9479c3.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/34/12/71/341271a6b80129b2d792d023afacfb1a.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f5/51/b3/f551b3cafccba9e13dac7c26b1ec0032.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5e/76/39/5e7639cdaa7c7c8411e090e9879caa78.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/be/7f/72/be7f722ae4eec2b10b6d166989feaf1d.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1a/87/79/1a87792efb8f4d41cee855ab9a685576.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/14/9a/38/149a38e52cd8fe2832311597433dd4fc.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/66/d3/7e/66d37eeebca1ce502e2a384420e6cee9.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/84/15/3f8415b95402c423acc2cf1ca3914f0f.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/61/dc/2a/61dc2a6ba0d690ee0be056c71f13970c.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/e3/c2/0be3c2d8a2831a4ff7d9377578f1cbf7.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/9d/44/db9d442820c4fc569fca996602e94329.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/80/e6/eb80e6bc7c68f1f3f208e2e85c60f23c.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/83/aa/02/83aa024406cf06dd13d4e7b1e8485375.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/bd/c1/2cbdc1a3578b22b67dd2d92c5a0c88f4.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/b4/84/2ab484bb2b17f432b9cc33205be915fd.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/e9/bb/4ae9bb951963887bbb4929d56ff95247.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9a/15/a4/9a15a46440b5b9195c1fd8e1d214fba4.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/55/95/8c/55958cc487bb67ca52d02d97dfd4c53a.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/f9/3f/54f93f943be9f68be74b0f8048bd3c24.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/22/42/f722422853c63ced0d215a0381c54954.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/22/63/f3/2263f35b45da1ff5ecb4ccfdc43f5658.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/9c/00/539c00a606b6c463929ad93421436d8f.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/6f/38/aa6f38b091f9623101532b914a1bf6ab.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/c3/24/8dc324471983a18c1d9eee98116f2997.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/80/4a/93804ad44f880518c2a1549b4d309284.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/aa/a5/77/aaa57743a534ff568614891d54e662d0.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/f5/8a/81f58a0103d5118515d173533f4ef9a5.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e8/8c/93/e88c93e35456352244a5dfcd907b65dc.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/11/db/9c11db6e18a365e6bea90115dc694dc7.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/12/8c/b8128cd5164972db1b57b0e57b64b746.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/fc/49/d8fc4973b25c84e3370ab191a93891c1.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2a/06/ff/2a06ff5bfa170452eaca4875cdfb50de.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/df/f9/54/dff9548d8f4fdcaef85c48dc3c5fa63e.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/71/b6/db/71b6dbbd7231ddc764624a3c5df7f94c.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/39/53/3e/39533e174f7c1a2b2f088c8e392e99a9.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/88/36/e9883666046632f79f9133dd23c23a79.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b7/13/4b/b7134b762e183588e8a741c4edffb6d0.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/3c/e7/723ce7dece2054ee09741e9bbda28a67.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/c2/e7/6fc2e7a49c30c63fa2b0655cf35adae5.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/65/04/9d65048d183382bd5566c15b185f5f3a.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/3f/9e/e93f9e33a313c2d292b6968e1843c81b.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/31/c3/7a31c3179d1846401beaa0e88483392a.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b5/2f/fc/b52ffc8fa0bb76c2e26dbefcb89a7547.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/d5/27/92d527cda249897d3dddd2fbcab4d14b.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/32/3c/3b323cae59f57f02f848e8ca46ca0057.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/15/c3/4b/15c34beb08bc9108efe6bd193e72ac7d.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/92/76/d8/9276d827e99b61693e224351ab6b5225.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/85/cc/5085cc4c4e3b3b177d09c1245012d633.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/a4/5b/93a45b4e08468fd8c8bed1445257222c.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/03/e7/7203e739de1d758b8d930a0cb931cca8.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/98/79/ad987946bc9d28fd93381dcb332c1593.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/99/a0/2a/99a02a59be75f52b96b3c04698aa6aef.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/ba/73/ddba7328301b0230b2dad906634d2a5e.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/b6/af/b1b6af4eceb2171b6b442da1f5250a15.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/09/4f/f3094f4e80f0a19e52f5f037bb1ba0a4.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8d/5c/10/8d5c10ba90d654690466de1370cf1025.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/77/36/ad7736991a0e579e079e5b1686d573b2.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/f7/40/d6f74092a84ee06801cc20310b99948d.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/c3/cc/77c3cc7a535a0e5d04537c1a5826943f.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/df/8b/03df8b038aa9b0015213890eb4fe7013.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/5a/c4/b15ac41b04e440c25c4df9037958feae.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/b8/23/9bb8236b7a5444488c6a3bbd9194d596.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/fd/5d/72fd5d73893dcd4d6c10db1ffba21cdf.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/44/5f/81445f65c8a2fb67ed12f7bc6620d1a6.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0b/33/f4/0b33f40ffdb7d6a07e533737a8bc4f90.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8e/ca/4f/8eca4f7d68e5df68a7c95848caa9e328.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/98/cc/8498cca8e816fc77f652b29b3d73bfcc.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/fe/d5/c5fed5287b9910ce438adbcefabc6df8.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/84/bc/8b/84bc8b540082d8d138d8712fd62a23ef.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/44/bc/98/44bc9834cd25e669c8455ad143e1bdcf.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/5e/16/815e166bc2680d29aa7e546e887cced3.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/c3/3c/bdc33cacfa7f96e00f16bd76b80a3798.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/50/b1/59/50b159c9e3b6e80f4a2c74b0141a8428.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/25/76/bb/2576bb03be1d2d2cb386a6b4ddce0e24.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/5f/ee/23/5fee23b8f86484ba8cc90784ffbc44aa.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/84/cc/8c84ccb82fb23772e42043a2996fbf29.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/79/a5/e979a5ece5794c2c9681bd0f1ea8bfa8.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/63/69/10/6369107468ffad7df09592f0d75e570c.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/c1/5e/7ac15e4953c3ded91444fef10a3e2075.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Owl Wallpaper",
+      "wallpaper_name": "Owl Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Owl",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/fc/95/2efc95725c942678e47687f0e2cdaf25.jpg"
+    }
+  ],
+  "Guide": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "title": "Cara mengisi Form Data Safety",
+      "image": "file:///android_asset/image/guide1.jpg",
+      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
+      "image": "file:///android_asset/image/guide2.jpg",
+      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "link": "<h1 style=\"text-align: center;\">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h1>\n<p style=\"text-align: justify;\">&nbsp;</p>\n<p style=\"text-align: justify;\"><code></code></p>\n<p style=\"text-align: justify;\">Hallo om pengguna Source Code Aliendroid, Kali ini penulis bahas rangkuman Gmeet sesi 1 dan 2 tentang cara ngiklan aplikasi menggunakan Google ads. Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post. <strong>Harap diperhatikan teknik ini bukan untuk mendapatkan penghasilan cepat dengan cara beriklan murah, tetapi lebih ke index dan posisi aplikasi dipencarian playstore</strong>.</p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7bb10be2c96-44198245-48737370.jpg\" alt=\"\" width=\"322\" height=\"133\" /></p>\n<p style=\"text-align: justify;\">Pahami sebelum memulai iklan:</p>\n<p style=\"text-align: justify;\"><strong>A. Impresi</strong></p>\n<p style=\"text-align: justify;\">Impresi adalah jumlah tayangan iklan yang tampil, impresi dipengaruhi oleh besar penawaran (BID), Bahasa dan lokasi Negara target. Penulis memulai BID dengan besaran 300 rupiah untuk seluruh negara dan semua bahasa.</p>\n<p style=\"text-align: justify;\"><strong>B. Click</strong></p>\n<p style=\"text-align: justify;\">Click adalah jumlah ketertarikan user terhadap iklan yang melakukan klik dan mengarahkannya ke halaman playstore, pengalaman penulis klik sangat dipengaruhi oleh katakunci, icon, gambar dan video yang di iklankan. Click yang baik berkisaran 30%. Simulasi:</p>\n<ul style=\"text-align: justify;\">\n<li style=\"text-align: justify;\">jika terjadi impresi 1000 dengan 50 klik = Boncos</li>\n<li style=\"text-align: justify;\">Jika terjadi impresi 1000 dengan 300 klik = Insya Allah tidak boncos</li>\n</ul>\n<p style=\"text-align: justify;\">Jangan terburu-buru untuk mendesain dan menentukan katakunci iklan, buatlah semenarik mungkin.</p>\n<p style=\"text-align: justify;\"><strong>C. Conversi/Install</strong></p>\n<p style=\"text-align: justify;\">Conversi adalah hasil dari click user yang melakukan / tertarik / menginstall aplikasi yang di iklankan, untuk mendapatkan conversi triknya terletak pada screenshot yang di tambahkan title / katakunci singkat tentang fitur dan keunggulan aplikasi. Jadi jangan buang-buang waktu untuk membuat deskripsi yang panjang karena jarang sekali user melaungkan waktu untuk membaca cerpen anda. Conversi yang Insya Allah tidak boncos berkisaran 30% dari jumlah click,<strong> contoh 300 click dengan 90 conversi.</strong></p>\n<p style=\"text-align: justify;\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://aliendro.id/uploads/blog/202112/img_61c7be3cd34d48-00617666-58136302.jpg\" alt=\"\" width=\"321\" height=\"138\" /></p>\n<p style=\"text-align: justify;\">Pesiapan Iklan untuk pemula:</p>\n<p style=\"text-align: justify;\"><strong>A. Dasar Pengaturan Iklan</strong></p>\n<ul style=\"text-align: justify;\">\n<li>Target seluruh Negara</li>\n<li>Gunakan semua bahasa, jika anda hanya menargetkan bahasa inggris saja maka target makin sedikit. Simulasi: jika anda menargetkan iklan ke negara Amerika dengan set bahasa inggris maka jumlah smartphone/divace/platform menerima iklan akan semakin sedikit, karena tidak semua orang amerika menggunakan bahasa inggris di divace-nya, sepertihalnya orang Indonesia tidak semuanya menggunakan bahasa indonesia di divace-nya, Penulis sendiri menggunakan divace dengan bahasa inggris.</li>\n<li>Budget Rp 50.000/day</li>\n<li>BID Rp Rp 300 (Maksimal)</li>\n<li>Siapkan asset menarik seperti Icon, katakunci, image dan video</li>\n</ul>"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Modul Simpan Json di Hosting dan Google Drive",
+      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
+      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "link": "https://aliendro.id/uploads/demo/guidejson/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Reskin",
+      "title": "Cara menggunakan Alien SDK Ads",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
+      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "link": "file:///android_asset/guide/guide2.html"
+    }
   ]
 }
