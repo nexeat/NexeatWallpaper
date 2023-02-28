@@ -6,7 +6,7 @@
       "main_ads_banner": "ca-app-pub-7425674012297339/4396650203",
       "main_ads_intertitial": "ca-app-pub-7425674012297339/5471441611",
       "main_ads_natives": "ca-app-pub-7425674012297339/6676712075",
-	    "open_ads_admob": "ca-app-pub-7425674012297339/1000330675",
+      "open_ads_admob": "ca-app-pub-7425674012297339/1000330675",
       "main_ads_rewards": "ca-app-pub-7425674012297339/5363630400",
       "backup_ads_natives": "",
       "backup_ads_rewards": "",
@@ -31,12 +31,452 @@
   ],
   "Categories": [
     {
-      "name_category": "Floral Wallpaper",
-      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/a4/8b/f7a48b09b22ca043e12592aa67644454.jpg"
     }
   ],
   "Wallpaper": [
-    
+    {
+      "id": "714242822171467322",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/77/9d/1c/779d1c9b18e55ad93f7a791eb9e5d8e2.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/46/1b/fd461b33c632837344750e38ed1c8aca.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/74/7f/d2747f70c5952a233db6c3ea8fea0ebf.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/61/31/74613180606a3b0a952df2fb23f28f2d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ca/2f/5d/ca2f5d3eed8333dddf4aa5f9acfbcefb.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d6/85/5c/d6855c9c36693f54a8433b5ef77b1488.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/51/5b/78/515b784e31a93322686d1177709e7991.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/65/d6/ce/65d6ced1d6f5d6d172671df4d6751aa9.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/6e/32/f36e32001e4fe178b2ff329f7bfb6e73.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/1c/3e/e51c3e2bbbf963e95f1eafc0354fd54c.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2f/fc/76/2ffc76b48ebd39ab8c6e5e712d9e0971.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6c/c2/b1/6cc2b1bc43f3fbf8930f091563f48e48.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/45/6b/72/456b7280a3e7cd632b618af7aa7c0e4d.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/69/07/3f6907e8b6ebf13d5ea81da62fda24a4.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f1/82/13/f182132e31831a1bbeeea6a8a0efb501.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3d/bb/b1/3dbbb14c23129ee54973bf37f1461aac.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/9f/80/729f800fa19fde51d7b2a12cc7d4e707.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/9a/e5/289ae57c1b916c8a3a9f558486909396.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/a5/18/c0a5182433343051afc864626aa21e98.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/3f/42/db3f424417986d080bc036886c3e395a.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b4/05/11/b4051162b893b25d389c80493923fc95.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/0f/59/980f5923b0fa4015afd392e90f93241a.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d3/f9/3d/d3f93d915698d2892e47a5741c4af1a7.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/cb/40/c1/cb40c1fe7ccc2a90a0863c256bb43b9a.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e1/9f/22/e19f2242ca4bab933e37e0ce7c6795fe.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/f5/2e/e9f52e5e1dcad3163c3b94a75c7512a5.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/27/3b/c9273b4aeddd4da155d577d54c6a79f1.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/03/c5/7e/03c57e6e8760610e259fc397a0cf1062.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/20/61/39/206139d010ef10e62927e38af2597c79.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ff/ca/91/ffca91eff5671910b93e23a0bc7a9ec6.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/73/67/cf/7367cfae0aab9e7b7b87ce7c68a0c2bf.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/97/70/b1/9770b134ac01de9aa7b2fa8e06876204.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b6/de/08/b6de0811f52279e0b814003591e226e1.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/79/1e/80/791e8028b144dde8e9c0438a3c0fc33b.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ec/4e/f8/ec4ef8e22f79f042f98f746196c336f1.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/69/5e/4f/695e4f40590201744c2ea6078fbfb80d.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/98/d2/40/98d240f0b6bb97fe11fd4b18a0e59fa9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/82/43/00/824300d940730ae15502b4139b9ada88.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f0/1c/04/f01c04eb6838c9b27d241b48226dd89a.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ad/cf/17/adcf174523dd13399eabfdd7052f209e.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/0b/20/680b20d91d37973f8d5d7ded2eb0e56a.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e6/39/ec/e639ec046727db4c702ef1f8ea177742.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7a/dc/ad/7adcada392570e5bfd031eaefe63690e.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/26/d9/dd26d98f59c939a55177c728fb07660f.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/81/3a/09/813a090fab817558aa9c2a2a72014109.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/26/f7/02/26f702b11d6e8aaf95edb21ff3f88b46.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/48/0a/78/480a7894a343b31c8f66da38b6b790fe.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3b/93/36/3b93368ce8bdbd1a6104b7023330eb7a.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Monstera Wallpaper",
+      "wallpaper_name": "Monstera Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Monstera",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/a4/8b/f7a48b09b22ca043e12592aa67644454.jpg"
+    }
   ],
   "Guide": [
     {
