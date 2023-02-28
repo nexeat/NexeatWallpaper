@@ -6,7 +6,7 @@
       "main_ads_banner": "ca-app-pub-7425674012297339/4556432301",
       "main_ads_intertitial": "ca-app-pub-7425674012297339/9027543246",
       "main_ads_natives": "ca-app-pub-7425674012297339/9265833504",
-	    "open_ads_admob": "ca-app-pub-7425674012297339/7714461571",
+      "open_ads_admob": "ca-app-pub-7425674012297339/7714461571",
       "main_ads_rewards": "ca-app-pub-7425674012297339/7952751832",
       "backup_ads_natives": "",
       "backup_ads_rewards": "",
@@ -31,12 +31,920 @@
   ],
   "Categories": [
     {
-      "name_category": "Floral Wallpaper",
-      "wallpaper_url": "https://i.pinimg.com/564x/1a/79/25/1a7925a3ec36263446ff37d9ae44fb26.jpg"
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/67/3c/2e/673c2ee7ebc51242efa7634cfdc25b5c.jpg"
     }
   ],
   "Wallpaper": [
-    
+    {
+      "id": "714242822171467322",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/9b/c7/b6/9bc7b6ecbce74d2c15f052b3f8247566.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/0f/23/d90f236c728dffc9de286f562d880588.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9a/40/69/9a406924e51789c86d2750f89c0f10f5.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/53/46/c1/5346c1409462ee7b1c2a8fc3e41c0b04.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/08/ab/3a08ab9a72638dcb0340280161ba1ef2.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/ad/a7/17ada7e1a3fe851b16c9cb420a3c1e2e.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/8f/42/b38f42f20fd9d73ed3f402aa82b8b75f.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/b0/bc/c1b0bc905bdaf655a633674750c20e71.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/85/d1/8f/85d18f4b061ffbde950a218e35c5c3a8.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d0/c6/90/d0c690d43cf4e28321cdc09d55d61317.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/41/a6/f741a677cf3b3f8238dc8b985b79519d.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/d1/32/21/d132213000e68abc4d9833bced6b03fc.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fc/98/d7/fc98d71ad93a2af37a4b6a5958597204.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e9/9f/9e/e99f9e1609e12c6dbbc62595ad9e6cda.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6e/08/b7/6e08b7a7b44a8ec3f68ff21c658100d0.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/fe/4b/40/fe4b40ca3e45c5598072585382c1e1d3.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/72/ba/2a/72ba2aa2a245cc007ccc6c4b609647b4.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/b3/cf/80b3cf85989fd2f6ba337b51ccddb68d.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ce/8b/44/ce8b441247d00fb9f0d1c186bc7fa6df.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/1f/a0/f21fa03ee4b99eba1d0d1f050cad87a1.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/2c/0c/ea/2c0cea07c6839f2a97583a17f00dc4b9.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/74/0e/8c/740e8cae9a8b84b2a995e4ecf2221fe9.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/f7/a8/c0f7a80a41d9ee731d42a7979a8e1d74.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/62/05/60/62056050d9316e9939768283f2297129.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b3/89/f1/b389f112d2597b6d5e4da9ece0de8e90.jpg"
+    },
+    {
+      "id": "649503577527932077",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper649503577527932077",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/12/95/14/129514cc4ca1659c5f4bd62472039663.jpg"
+    },
+    {
+      "id": "131659989099515311",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper131659989099515311",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/45/86/83/4586838e660ea5799e36c3936239d4ce.jpg"
+    },
+    {
+      "id": "384143043228848250",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper384143043228848250",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/9e/a9/52/9ea952a2540c7f7767fbbd2d932e7e72.jpg"
+    },
+    {
+      "id": "592012313529434213",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper592012313529434213",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/47/46/4f/47464f0f9a665626ab776360f28d64ae.jpg"
+    },
+    {
+      "id": "464644886567970648",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper464644886567970648",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/1f/c2/3a/1fc23a5dcb4f7e478406433f52d36118.jpg"
+    },
+    {
+      "id": "852939616944933466",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper852939616944933466",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/6a/e1/a26ae19b37ee839b237657f041816929.jpg"
+    },
+    {
+      "id": "853643304386339341",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper853643304386339341",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/5c/a3/3f5ca378b54774a6502f45f73f3642b9.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/22/8d/7b/228d7b1f56110b10701337cf2108632d.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/b2/44/c3/b244c30aa6b14a78db92e03ca5c42110.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/bd/57/e4/bd57e4b3ccaccd2dde4bfdea129c1d91.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/6f/9a/7f/6f9a7f6cee2550f6279fb2477e6daef2.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/54/40/50/544050ce6211245a26dcfe066aa7b069.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/8c/c5/b5/8cc5b5f07e5cd93fcaabc464a2cb3fb9.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/3c/0a/043c0a5f23cb24cf453ee39d9b7bf8d5.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/61/fd/ff/61fdff3bab00f1f846138cd1ed11a632.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/04/ae/fa/04aefa812330fcf831bf930ea4163941.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/9c/db/55/9cdb5581720296d053507e2e0ae441ab.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0c/d6/33/0cd63370537ec9dea8afd81480d8f4ba.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/e0/9f/65/e09f658b2dd29531e7a729c6e66a5c1b.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/30/97/bd/3097bd7507c9dc2f4f60052cea8abaad.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/b1/6c/acb16c54b2f0db19cf958a5ffeb6eec1.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/49/d1/bb/49d1bbfe1cb5da4d25dcf7c29fede5df.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/fa/a3/f9/faa3f99367bba4ddc797d4571a7d69ca.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/87/34/d6/8734d63555f7c852993eea489820a235.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/eb/5f/d5/eb5fd542c37d4b8b1cb286ca22a5480e.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a3/c7/33/a3c7330f81b92325e8256b5abf1b0baf.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f7/5f/f9/f75ff9a6fcfebe8f88ed501c9dc594a2.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/31/3a/bd/313abd25264e895a4a44d51552957582.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/3a/02/2b/3a022ba2cfe6e7ab1c3c404e1ec317d8.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/75/65/7e/75657e11c3422be778e6e53731f73129.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/88/32/d4/8832d42698a698b9fd289a4805d77436.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/87/60/db/8760dbe7f8f6c9c4666ff837839e6246.jpg"
+    },
+    {
+      "id": "358880664069089576",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper358880664069089576",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/f2/d9/c9/f2d9c97c853bc157ad51c72156da598d.jpg"
+    },
+    {
+      "id": "586875395186062912",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper586875395186062912",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/2c/70/c22c70d387812c39d0c27820a91bf377.jpg"
+    },
+    {
+      "id": "62346776084541613",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper62346776084541613",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/46/d7/ab46d7db190837f7d4696de49c2273e7.jpg"
+    },
+    {
+      "id": "499618152421404401",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper499618152421404401",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/52/c1/02/52c102f41d9f4720f921f1481bfbc511.jpg"
+    },
+    {
+      "id": "585256914095741118",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper585256914095741118",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/7f/f2/0f/7ff20feaf7c05092bddc450e0f4a9315.jpg"
+    },
+    {
+      "id": "571605377716374282",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper571605377716374282",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/5d/82/40/5d8240a4e8f4a6edb45deb289eaa49a9.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e7/ba/74/e7ba746c793cc27232b1901278a803a5.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/4c/26/1d/4c261dc16c885b82035a08be5982bb4d.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 0,
+      "wallpaper_url": "https://i.pinimg.com/564x/20/09/a0/2009a0acf5815b568a8a7c344c8579b6.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/9d/a2/be/9da2be3ae95f3775172c88b010489416.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c2/7b/63/c27b633f69b533112da7589993c35ec9.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/ae/b8/a5aeb80d52b164cb7112d2f283899175.jpg"
+    },
+    {
+      "id": "714242822151697067",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697067",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/d9/04/19/d90419086cad957a72dffa1cb50aaadb.jpg"
+    },
+    {
+      "id": "714242822151359451",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151359451",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/79/e9/f8/79e9f87b1478be959b1b2bacbff216ad.jpg"
+    },
+    {
+      "id": "714242822150098949",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098949",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/72/25/dd7225eb015986b7b24a253cfe7fee25.jpg"
+    },
+    {
+      "id": "714242822150098938",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098938",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/11/82/98/1182989581ef4e36fba6f1be06e6bc78.jpg"
+    },
+    {
+      "id": "714242822150098895",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098895",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/59/76/d1/5976d19ebff4920ec7fca2c8359fd82a.jpg"
+    },
+    {
+      "id": "714242822150098887",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098887",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/17/5a/1c/175a1c872822281814aac09840ad6747.jpg"
+    },
+    {
+      "id": "714242822150098881",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098881",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/93/74/2b/93742b515b80be53710b291dc3d75d92.jpg"
+    },
+    {
+      "id": "714242822150098876",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098876",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/ab/86/47/ab86472fd2507015eb3cadc5f82f8aba.jpg"
+    },
+    {
+      "id": "714242822150098854",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822150098854",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/7c/ef/be/7cefbe369b6931c51474cc6e885c70e0.jpg"
+    },
+    {
+      "id": "714242822149867350",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149867350",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c0/16/b0/c016b0e9b6d46e78b6e8159cd73203ca.jpg"
+    },
+    {
+      "id": "714242822149270900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149270900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/a3/fc/6ba3fc37960058be474632dd29f61022.jpg"
+    },
+    {
+      "id": "714242822149101280",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101280",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/51/1b/b9511b4d85b6fbabba52b15ecfac1e56.jpg"
+    },
+    {
+      "id": "714242822149101277",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101277",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/bb/ce/68bbcec82eeecba10d28b2274cd97ffe.jpg"
+    },
+    {
+      "id": "714242822149101267",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101267",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/6b/ab/bd/6babbd58da32e8ae09759aff089963b3.jpg"
+    },
+    {
+      "id": "714242822149101258",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149101258",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/64/08/37/640837ac0aab4f6145165b654f1f57e8.jpg"
+    },
+    {
+      "id": "714242822149100692",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100692",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/65/9a/c5659aef73487ef92d1d12b745776f0b.jpg"
+    },
+    {
+      "id": "714242822149100681",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100681",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/38/e5/56/38e5569f86b2ec3632fc91ba8886a51c.jpg"
+    },
+    {
+      "id": "714242822149100668",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100668",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a5/3c/08/a53c08953967eb1ef4475c030c13ff27.jpg"
+    },
+    {
+      "id": "714242822149100658",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822149100658",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/88/24/1e882485bd6aa623bb86f5942f3b5a4b.jpg"
+    },
+    {
+      "id": "27795722692716389",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper27795722692716389",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/44/8a/8a/448a8a895b8e5df0b9d7c4e99b8952a6.jpg"
+    },
+    {
+      "id": "24769866692117946",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper24769866692117946",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/68/de/49/68de4981b23f44eb4a447f24fa7355c9.jpg"
+    },
+    {
+      "id": "389913280252701740",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper389913280252701740",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/c1/40/d8/c140d8fd6ad374b0f1ed97af4be76127.jpg"
+    },
+    {
+      "id": "361765782578553077",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper361765782578553077",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/99/aa/7b/99aa7b1d45d6b3915920dbbbde15a300.jpg"
+    },
+    {
+      "id": "79657487151474684",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper79657487151474684",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/78/d0/a278d089e91e56324025ea903dd60b54.jpg"
+    },
+    {
+      "id": "925489792152442896",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper925489792152442896",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/35/26/67/3526677b4f23bad38fc1e25d938c41a4.jpg"
+    },
+    {
+      "id": "14214555063601230",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper14214555063601230",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/0f/48/c1/0f48c19cb4264899f048ad12f4c2c0b3.jpg"
+    },
+    {
+      "id": "714242822171467322",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822171467322",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/29/4e/e4294e21b05f4037a9d5649fb923e6e5.jpg"
+    },
+    {
+      "id": "714242822170033912",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822170033912",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/b9/b7/d8/b9b7d8b91e367bfbcf1812abde24579c.jpg"
+    },
+    {
+      "id": "714242822151849900",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849900",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/db/c6/c1/dbc6c184de50a5f40979679164e3eda1.jpg"
+    },
+    {
+      "id": "714242822151849894",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849894",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/80/8a/03/808a0372b25f1f948c09af0877d58910.jpg"
+    },
+    {
+      "id": "714242822151849869",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151849869",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/67/3c/2e/673c2ee7ebc51242efa7634cfdc25b5c.jpg"
+    },
+    {
+      "id": "714242822151697117",
+      "name_category": "Sequin Wallpaper",
+      "wallpaper_name": "Sequin Wallpaper714242822151697117",
+      "wallpaper_detail": "This is Exclusive wallpaper Sequin",
+      "wallpaper_type": "IMAGE",
+      "lock": 1,
+      "wallpaper_url": "https://i.pinimg.com/564x/28/ab/e1/28abe1e2b81f7b93cbd4a5989daac304.jpg"
+    }
   ],
   "Guide": [
     {
